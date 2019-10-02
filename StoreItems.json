@@ -1,0 +1,7997 @@
+{
+	"items" : [
+	{
+		"abr": "pileofdirt",
+		"price": 0,
+		"category": "Raw resources",
+		"defname": "VG_PileofDirt"
+	},
+	{
+		"abr": "silverflowerpetals",
+		"price": 0,
+		"category": "Resource plants",
+		"defname": "RawSilverLeaf"
+	},
+	{
+		"abr": "insectmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Megaspider"
+	},
+	{
+		"abr": "steelshrooms",
+		"price": -10,
+		"category": "Resource plants",
+		"defname": "RawSteelLeaf"
+	},
+	{
+		"abr": "hay",
+		"price": 1,
+		"category": "Animal Feed",
+		"defname": "Hay"
+	},
+	{
+		"abr": "poppyseed",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "PoppySeed"
+	},
+	{
+		"abr": "humanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Human"
+	},
+	{
+		"abr": "graniteblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksGranite"
+	},
+	{
+		"abr": "limestoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksLimestone"
+	},
+	{
+		"abr": "marbleblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "sandstoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "slateblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksSlate"
+	},
+	{
+		"abr": "compoststarter",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "VG_Compost"
+	},
+	{
+		"abr": "fertilizer",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "RawFertilizer"
+	},
+	{
+		"abr": "neutroflowerpetals",
+		"price": -10,
+		"category": "Plant matter",
+		"defname": "NeutroPetals"
+	},
+	{
+		"abr": "salt",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "ChunkSalt"
+	},
+	{
+		"abr": "silver",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Silver"
+	},
+	{
+		"abr": "soylentblue",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentblue"
+	},
+	{
+		"abr": "soylentgreen",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentgreen"
+	},
+	{
+		"abr": "soylentpurple",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentpurple"
+	},
+	{
+		"abr": "soylentred",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "soylentred"
+	},
+	{
+		"abr": "soylentyellow",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "soylentyellow"
+	},
+	{
+		"abr": "rimcolony",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_RimColony"
+	},
+	{
+		"abr": "agavefruit",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawAgave"
+	},
+	{
+		"abr": "barley",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawBarley"
+	},
+	{
+		"abr": "cactusfruit",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawCactusFruit"
+	},
+	{
+		"abr": "carrots",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawCarrots"
+	},
+	{
+		"abr": "corn",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawCorn"
+	},
+	{
+		"abr": "eggplant",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "Raweggplant"
+	},
+	{
+		"abr": "kibble",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Kibble"
+	},
+	{
+		"abr": "olive",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawOlive"
+	},
+	{
+		"abr": "potatoes",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawPotatoes"
+	},
+	{
+		"abr": "pumpkin",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "Rawpumpkin"
+	},
+	{
+		"abr": "rawfungus",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawFungus"
+	},
+	{
+		"abr": "rice",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawRice"
+	},
+	{
+		"abr": "squash",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "Rawsquash"
+	},
+	{
+		"abr": "tomatoes",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawTomatoes"
+	},
+	{
+		"abr": "bean",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "Rawbean"
+	},
+	{
+		"abr": "berries",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "RawBerries"
+	},
+	{
+		"abr": "cottonfibre",
+		"price": -10,
+		"category": "Raw textiles",
+		"defname": "RawCotton"
+	},
+	{
+		"abr": "kiwi",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "RawKiwi"
+	},
+	{
+		"abr": "mango",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "RawMango"
+	},
+	{
+		"abr": "wood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "jadecrystal",
+		"price": -10,
+		"category": "Resource plants",
+		"defname": "RawJadeLeaf"
+	},
+	{
+		"abr": "hops",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawHops"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "bamboo",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Bamboo"
+	},
+	{
+		"abr": "pemmican",
+		"price": 2,
+		"category": "Foods",
+		"defname": "Pemmican"
+	},
+	{
+		"abr": "snowbeet",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "turbineblades",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
+	},
+	{
+		"abr": "apples",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawapple"
+	},
+	{
+		"abr": "banana",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawbanana"
+	},
+	{
+		"abr": "blueberry",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawblueberry"
+	},
+	{
+		"abr": "cherries",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "RawCherry"
+	},
+	{
+		"abr": "cloth",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Cloth"
+	},
+	{
+		"abr": "cloudberry",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawcloudberry"
+	},
+	{
+		"abr": "coconut",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "RawCoconut"
+	},
+	{
+		"abr": "date",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawdate"
+	},
+	{
+		"abr": "fig",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawfig"
+	},
+	{
+		"abr": "gooseberry",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawgooseberry"
+	},
+	{
+		"abr": "grapes",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawgrape"
+	},
+	{
+		"abr": "orange",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Raworange"
+	},
+	{
+		"abr": "patchleather",
+		"price": 2,
+		"category": "Leathers",
+		"defname": "Leather_Patch"
+	},
+	{
+		"abr": "peach",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawpeach"
+	},
+	{
+		"abr": "pineapple",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawpineapple"
+	},
+	{
+		"abr": "tobacco",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawTobacco"
+	},
+	{
+		"abr": "uraniumrootbulbs",
+		"price": -10,
+		"category": "Resource plants",
+		"defname": "RawUraniumLeaf"
+	},
+	{
+		"abr": "watermelon",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "smokeleafleaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "SmokeleafLeaves"
+	},
+	{
+		"abr": "ironwood",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "VG_IronWoodLog"
+	},
+	{
+		"abr": "woolcloth",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "WoolCloth"
+	},
+	{
+		"abr": "birdskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Bird"
+	},
+	{
+		"abr": "lightleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Light"
+	},
+	{
+		"abr": "pigskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "psychoidleaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "PsychoidLeaves"
+	},
+	{
+		"abr": "steel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Steel"
+	},
+	{
+		"abr": "alpacameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alpaca"
+	},
+	{
+		"abr": "alphabeavermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alphabeaver"
+	},
+	{
+		"abr": "bearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bear_Grizzly"
+	},
+	{
+		"abr": "beef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cow"
+	},
+	{
+		"abr": "birdmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cassowary"
+	},
+	{
+		"abr": "boomalopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Boomalope"
+	},
+	{
+		"abr": "boomratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Boomrat"
+	},
+	{
+		"abr": "capybarameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Capybara"
+	},
+	{
+		"abr": "cariboumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Caribou"
+	},
+	{
+		"abr": "catmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cat"
+	},
+	{
+		"abr": "chickenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chicken"
+	},
+	{
+		"abr": "chinchillameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chinchilla"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cobra"
+	},
+	{
+		"abr": "cougarmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "dogleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "dromedarymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dromedary"
+	},
+	{
+		"abr": "elephantmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Elephant"
+	},
+	{
+		"abr": "elkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Elk"
+	},
+	{
+		"abr": "foxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Fox_Fennec"
+	},
+	{
+		"abr": "gazellemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gazelle"
+	},
+	{
+		"abr": "haremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Hare"
+	},
+	{
+		"abr": "huskymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Husky"
+	},
+	{
+		"abr": "ibexmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ibex"
+	},
+	{
+		"abr": "iguanameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Iguana"
+	},
+	{
+		"abr": "labradorretrievermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LabradorRetriever"
+	},
+	{
+		"abr": "lynxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Lynx"
+	},
+	{
+		"abr": "megaslothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Megasloth"
+	},
+	{
+		"abr": "monkeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Monkey"
+	},
+	{
+		"abr": "muffalomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Muffalo"
+	},
+	{
+		"abr": "mushroom",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "n.solutionunitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "panthermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "plasteelthread",
+		"price": -10,
+		"category": "Raw textiles",
+		"defname": "VG_PlasteelThread"
+	},
+	{
+		"abr": "pork",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pig"
+	},
+	{
+		"abr": "raccoonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Raccoon"
+	},
+	{
+		"abr": "rainbowpetals",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "AJO_RainbowPetals"
+	},
+	{
+		"abr": "ratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rat"
+	},
+	{
+		"abr": "redlentil",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RawRedLentil"
+	},
+	{
+		"abr": "rhinocerosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rhinoceros"
+	},
+	{
+		"abr": "rosepetal",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "RosePetal"
+	},
+	{
+		"abr": "squirrelmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "sugarcane",
+		"price": -10,
+		"category": "Ingredients",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "synthylene",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "Synthylene"
+	},
+	{
+		"abr": "synthyleneblack",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneBlack"
+	},
+	{
+		"abr": "synthyleneblue",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneBlue"
+	},
+	{
+		"abr": "synthylenegreen",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneGreen"
+	},
+	{
+		"abr": "synthyleneolive",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneOlive"
+	},
+	{
+		"abr": "synthyleneorange",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneOrange"
+	},
+	{
+		"abr": "synthylenered",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneRed"
+	},
+	{
+		"abr": "synthylenesand",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneSand"
+	},
+	{
+		"abr": "synthyleneviolet",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneViolet"
+	},
+	{
+		"abr": "synthylenewhite",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneWhite"
+	},
+	{
+		"abr": "synthyleneyellow",
+		"price": -10,
+		"category": "Synthylene",
+		"defname": "SynthyleneYellow"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "thrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Thrumbo"
+	},
+	{
+		"abr": "tortoisemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "turkeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Turkey"
+	},
+	{
+		"abr": "uncuredplasteel",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "UncuredPlasteel"
+	},
+	{
+		"abr": "uncuredsynthamidecomposite",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "UncuredComposite"
+	},
+	{
+		"abr": "undistilledvodka",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "CPD_VodkaPrecursor"
+	},
+	{
+		"abr": "uraniumpellets",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "UraniumPellets"
+	},
+	{
+		"abr": "veganeggsubstitute",
+		"price": -10,
+		"category": "Eggs (unfert.)",
+		"defname": "VeganEgg"
+	},
+	{
+		"abr": "venison",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "wargmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Warg"
+	},
+	{
+		"abr": "wheat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Rawwheat"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolf_Timber"
+	},
+	{
+		"abr": "yorkshireterriermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "blueairpipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "blueAirPipe"
+	},
+	{
+		"abr": "cyanairpipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "cyanAirPipe"
+	},
+	{
+		"abr": "powerconduit",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PowerConduit"
+	},
+	{
+		"abr": "redairpipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "redAirPipe"
+	},
+	{
+		"abr": "lizardskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Lizard"
+	},
+	{
+		"abr": "plainleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Plain"
+	},
+	{
+		"abr": "transparentroofing",
+		"price": -10,
+		"category": "Misc",
+		"defname": "RoofTransparentFraming"
+	},
+	{
+		"abr": "bluefur",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "Leather_Bluefur"
+	},
+	{
+		"abr": "camelhide",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "Leather_Camel"
+	},
+	{
+		"abr": "chemfuel",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Chemfuel"
+	},
+	{
+		"abr": "rawflax",
+		"price": -10,
+		"category": "Raw textiles",
+		"defname": "RawFlax"
+	},
+	{
+		"abr": "wort",
+		"price": 4,
+		"category": "Alcohol precursor",
+		"defname": "Wort"
+	},
+	{
+		"abr": "alpacawool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "WoolAlpaca"
+	},
+	{
+		"abr": "blendedwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "VG_BlendedWool"
+	},
+	{
+		"abr": "camelhair",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "WoolCamel"
+	},
+	{
+		"abr": "megaslothwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "WoolMegasloth"
+	},
+	{
+		"abr": "muffalowool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "WoolMuffalo"
+	},
+	{
+		"abr": "napalm",
+		"price": -10,
+		"category": "Oil",
+		"defname": "Napalm"
+	},
+	{
+		"abr": "oilpipeline",
+		"price": -10,
+		"category": "Misc",
+		"defname": "OilPipeline"
+	},
+	{
+		"abr": "grave",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Grave"
+	},
+	{
+		"abr": "chocolate",
+		"price": 5,
+		"category": "Sweets",
+		"defname": "Chocolate"
+	},
+	{
+		"abr": "cornmeal",
+		"price": -10,
+		"category": "Ingredients",
+		"defname": "Cornmeal"
+	},
+	{
+		"abr": "elephantleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Elephant"
+	},
+	{
+		"abr": "hemp",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "HempCloth"
+	},
+	{
+		"abr": "pantherafur",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Panthera"
+	},
+	{
+		"abr": "paper",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "AJO_Paper"
+	},
+	{
+		"abr": "rawdevilstrand",
+		"price": -10,
+		"category": "Raw textiles",
+		"defname": "RawDevilstrand"
+	},
+	{
+		"abr": "wolfskin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Wolf"
+	},
+	{
+		"abr": "milk",
+		"price": 5,
+		"category": "Ingredients",
+		"defname": "Milk"
+	},
+	{
+		"abr": "heavyfur",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "bearskin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Bear"
+	},
+	{
+		"abr": "foxfur",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Fox"
+	},
+	{
+		"abr": "goldfernleaves",
+		"price": -10,
+		"category": "Resource plants",
+		"defname": "RawGoldLeaf"
+	},
+	{
+		"abr": "plasteelbulbchunks",
+		"price": -10,
+		"category": "Resource plants",
+		"defname": "RawPlasteelLeaf"
+	},
+	{
+		"abr": "biofuel",
+		"price": 10,
+		"category": "Manufactured",
+		"defname": "VG_Biofuel"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 7,
+		"category": "Plant matter",
+		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "flour",
+		"price": -10,
+		"category": "Ingredients",
+		"defname": "Flour"
+	},
+	{
+		"abr": "linencloth",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Flaxcloth"
+	},
+	{
+		"abr": "sugar",
+		"price": -10,
+		"category": "Ingredients",
+		"defname": "Sugar"
+	},
+	{
+		"abr": "synthread",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Synthread"
+	},
+	{
+		"abr": "humanleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Human"
+	},
+	{
+		"abr": "rhinocerosleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Rhinoceros"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "blankbook",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "AJO_BlankBook"
+	},
+	{
+		"abr": "cannedmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "CannedMeat"
+	},
+	{
+		"abr": "cannedvegetables",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "CannedVeg"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "jade",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "Jade"
+	},
+	{
+		"abr": "rosetea",
+		"price": 8,
+		"category": "Drugs",
+		"defname": "RoseTea"
+	},
+	{
+		"abr": "saltedmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SaltedMeat"
+	},
+	{
+		"abr": "spectagotea",
+		"price": 8,
+		"category": "Drugs",
+		"defname": "AJO_SpectagoTea"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 9,
+		"category": "Textiles",
+		"defname": "DevilstrandCloth"
+	},
+	{
+		"abr": "synthamide",
+		"price": 9,
+		"category": "Textiles",
+		"defname": "Synthamide"
+	},
+	{
+		"abr": "synthmeat",
+		"price": 9,
+		"category": "Meat",
+		"defname": "RawSynthmeat"
+	},
+	{
+		"abr": "napalmtrail",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Filth_NapalmTrail"
+	},
+	{
+		"abr": "waterproofconduit",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WaterproofConduit"
+	},
+	{
+		"abr": "bandagekit",
+		"price": 10,
+		"category": "Medicine",
+		"defname": "Bandagekit"
+	},
+	{
+		"abr": "cannedfruit",
+		"price": 10,
+		"category": "Fruits",
+		"defname": "CannedFruit"
+	},
+	{
+		"abr": "neutroamine",
+		"price": 10,
+		"category": "Manufactured",
+		"defname": "Neutroamine"
+	},
+	{
+		"abr": "opium",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "PoppyLatex"
+	},
+	{
+		"abr": "uranium",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Uranium"
+	},
+	{
+		"abr": "coldwaterpipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "waterPipe"
+	},
+	{
+		"abr": "consoleloom",
+		"price": -10,
+		"category": "Misc",
+		"defname": "controllerLoom"
+	},
+	{
+		"abr": "coolantpipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "coolingPipe"
+	},
+	{
+		"abr": "highvoltage",
+		"price": -10,
+		"category": "Misc",
+		"defname": "HighVoltage"
+	},
+	{
+		"abr": "steampipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "steamPipe"
+	},
+	{
+		"abr": "chinchillafur",
+		"price": 11,
+		"category": "Leathers",
+		"defname": "Leather_Chinchilla"
+	},
+	{
+		"abr": "chickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EggChickenFertilized"
+	},
+	{
+		"abr": "chickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggChickenUnfertilized"
+	},
+	{
+		"abr": "fruitdrink",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "Fruitdrink"
+	},
+	{
+		"abr": "composite",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberComposite"
+	},
+	{
+		"abr": "compositeblack",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeBlack"
+	},
+	{
+		"abr": "compositeblue",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeBlue"
+	},
+	{
+		"abr": "compositegreen",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeGreen"
+	},
+	{
+		"abr": "compositeolive",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeOlive"
+	},
+	{
+		"abr": "compositeorange",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeOrange"
+	},
+	{
+		"abr": "compositered",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeRed"
+	},
+	{
+		"abr": "compositesand",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeSand"
+	},
+	{
+		"abr": "compositeviolet",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeViolet"
+	},
+	{
+		"abr": "compositewhite",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeWhite"
+	},
+	{
+		"abr": "compositeyellow",
+		"price": -10,
+		"category": "Synthamide",
+		"defname": "FiberCompositeYellow"
+	},
+	{
+		"abr": "depleteduranium",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "DepletedUraniumPellets"
+	},
+	{
+		"abr": "gardencoffee",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "Coffee"
+	},
+	{
+		"abr": "gardentea",
+		"price": 13,
+		"category": "Sweets",
+		"defname": "Cuptea"
+	},
+	{
+		"abr": "insectjelly",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "InsectJelly"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "syrup",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "CPD_Syrup"
+	},
+	{
+		"abr": "taintedskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "solarroofing",
+		"price": -10,
+		"category": "Misc",
+		"defname": "RoofSolarFraming"
+	},
+	{
+		"abr": "hyperweave",
+		"price": 15,
+		"category": "Textiles",
+		"defname": "Hyperweave"
+	},
+	{
+		"abr": "plasteel",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Plasteel"
+	},
+	{
+		"abr": "walllight",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightVII"
+	},
+	{
+		"abr": "walllight((blue)old)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight((green)old)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight((red)old)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlueVII"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreenVII"
+	},
+	{
+		"abr": "walllight(old)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRedVII"
+	},
+	{
+		"abr": "agavemust",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_AgaveMust"
+	},
+	{
+		"abr": "beetkvasswort",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_VegKvassWort"
+	},
+	{
+		"abr": "berrywinemust",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "CPD_WineMust"
+	},
+	{
+		"abr": "brownmalt",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_BrownMalt"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "cidermust",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_CiderMust"
+	},
+	{
+		"abr": "cigarillos",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Cigarillos"
+	},
+	{
+		"abr": "cornwort",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "CPD_CornWort"
+	},
+	{
+		"abr": "cyanide",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "Cyanide"
+	},
+	{
+		"abr": "fruitkvasswort",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_FruitKvassWort"
+	},
+	{
+		"abr": "fruitmash",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_FruitMash"
+	},
+	{
+		"abr": "gold",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "Gold"
+	},
+	{
+		"abr": "herbalmedicine",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "MedicineHerbal"
+	},
+	{
+		"abr": "kvasssodawort",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_KvassSodaWort"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "nutrientpastemeal",
+		"price": 17,
+		"category": "Meals",
+		"defname": "MealNutrientPaste"
+	},
+	{
+		"abr": "perodyne",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "AJO_Perodyne"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "psychitetea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "PsychiteTea"
+	},
+	{
+		"abr": "ricemash",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "CPD_RiceMash"
+	},
+	{
+		"abr": "sabotround",
+		"price": -10,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabot"
+	},
+	{
+		"abr": "sugarcanemash",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_CaneMash"
+	},
+	{
+		"abr": "thornweedneedle",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "ThornWeedNeedle"
+	},
+	{
+		"abr": "winemust",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_GrapeMust"
+	},
+	{
+		"abr": "sandbags",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Sandbags"
+	},
+	{
+		"abr": "modularplanterbox",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ModularPlanterbox"
+	},
+	{
+		"abr": "wall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall"
+	},
+	{
+		"abr": "ibuprofen",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "VG_Ibuprofen"
+	},
+	{
+		"abr": "smokeleafjoint",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "SmokeleafJoint"
+	},
+	{
+		"abr": "turkeyegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggTurkeyFertilized"
+	},
+	{
+		"abr": "beer",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "Beer"
+	},
+	{
+		"abr": "meatpie",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "meatpie"
+	},
+	{
+		"abr": "penicillin",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "Penicillin"
+	},
+	{
+		"abr": "pickledvegetable",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "PickledVeg"
+	},
+	{
+		"abr": "beetkvass",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "VegetableKvass"
+	},
+	{
+		"abr": "driedfruit",
+		"price": -10,
+		"category": "Fruits",
+		"defname": "driedfruit"
+	},
+	{
+		"abr": "flake",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "Flake"
+	},
+	{
+		"abr": "fruitkvass",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "FruitKvass"
+	},
+	{
+		"abr": "kvasssoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "KvassSoda"
+	},
+	{
+		"abr": "polenta",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawPolenta"
+	},
+	{
+		"abr": "thrumbofur",
+		"price": 25,
+		"category": "Leathers",
+		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "tofu",
+		"price": 25,
+		"category": "Meat",
+		"defname": "Rawtofu"
+	},
+	{
+		"abr": "advmodularplanterbox",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ADV_ModularPlanterbox"
+	},
+	{
+		"abr": "ambrosia",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "Ambrosia"
+	},
+	{
+		"abr": "applecider",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "cider"
+	},
+	{
+		"abr": "applesoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "AppleSoda"
+	},
+	{
+		"abr": "bananasoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "BananaSoda"
+	},
+	{
+		"abr": "blueberrysoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "BlueberrySoda"
+	},
+	{
+		"abr": "bread",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Bread"
+	},
+	{
+		"abr": "brownale",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "BrownAle"
+	},
+	{
+		"abr": "cheese",
+		"price": 25,
+		"category": "Ingredients",
+		"defname": "cheese"
+	},
+	{
+		"abr": "cherrysoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "CherrySoda"
+	},
+	{
+		"abr": "chocolatemilk",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "Chocomilk"
+	},
+	{
+		"abr": "cloudberrysoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "CloudberrySoda"
+	},
+	{
+		"abr": "coconutsoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "CoconutSoda"
+	},
+	{
+		"abr": "cornbread",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Cornbread"
+	},
+	{
+		"abr": "datesoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "DateSoda"
+	},
+	{
+		"abr": "figsoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "FigSoda"
+	},
+	{
+		"abr": "gooseberrysoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "GooseberrySoda"
+	},
+	{
+		"abr": "grapesoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "GrapeSoda"
+	},
+	{
+		"abr": "kiwisoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "KiwiSoda"
+	},
+	{
+		"abr": "mangosoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "MangoSoda"
+	},
+	{
+		"abr": "mysterysoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "MysterySoda"
+	},
+	{
+		"abr": "orangesoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "OrangeSoda"
+	},
+	{
+		"abr": "paintingsupplies",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "AJO_PaintingSupplies"
+	},
+	{
+		"abr": "peachsoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "PeachSoda"
+	},
+	{
+		"abr": "peyote",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "Peyote"
+	},
+	{
+		"abr": "pineapplesoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "PineappleSoda"
+	},
+	{
+		"abr": "simplemeal",
+		"price": 25,
+		"category": "Meals",
+		"defname": "MealSimple"
+	},
+	{
+		"abr": "smellingsalts",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "SSalts"
+	},
+	{
+		"abr": "tacos",
+		"price": 25,
+		"category": "Fine Meals",
+		"defname": "Tacos"
+	},
+	{
+		"abr": "vodka",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "vodka"
+	},
+	{
+		"abr": "watermelonsoda",
+		"price": -10,
+		"category": "Garden soda",
+		"defname": "WatermelonSoda"
+	},
+	{
+		"abr": "methadone",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "Methadone"
+	},
+	{
+		"abr": "nigiri",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Nigiri"
+	},
+	{
+		"abr": "porridge",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Porridge"
+	},
+	{
+		"abr": "ambrosiamust",
+		"price": -10,
+		"category": "Alcohol precursor",
+		"defname": "VG_AmbrosiaMust"
+	},
+	{
+		"abr": "cannedmeal",
+		"price": 30,
+		"category": "Meals",
+		"defname": "MealCannedFood"
+	},
+	{
+		"abr": "banditscarf",
+		"price": 30,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Bandit"
+	},
+	{
+		"abr": "scarf",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Vandal"
+	},
+	{
+		"abr": "antibiotics",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "VG_antibiotics"
+	},
+	{
+		"abr": "emuegg(fert.)",
+		"price": 30,
+		"category": "Eggs (fert.)",
+		"defname": "EggEmuFertilized"
+	},
+	{
+		"abr": "grilledkabob",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Kabob"
+	},
+	{
+		"abr": "grilledsteak",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Grilledsteak"
+	},
+	{
+		"abr": "grilledvegetables",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "Grilledveg"
+	},
+	{
+		"abr": "medicine",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "MedicineIndustrial"
+	},
+	{
+		"abr": "penoxycyline",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "Penoxycyline"
+	},
+	{
+		"abr": "modularflowerbox",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ModularFlowerbox"
+	},
+	{
+		"abr": "cassowaryegg(fert.)",
+		"price": 30,
+		"category": "Eggs (fert.)",
+		"defname": "EggCassowaryFertilized"
+	},
+	{
+		"abr": "fruitshine",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "Fruitshine"
+	},
+	{
+		"abr": "sake",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "saki"
+	},
+	{
+		"abr": "whisky",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "whisky"
+	},
+	{
+		"abr": "paintingeasel",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_Easel"
+	},
+	{
+		"abr": "ambrosiawine",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "VG_AmbrosiaWine"
+	},
+	{
+		"abr": "cookie",
+		"price": 33,
+		"category": "Lavish Meals",
+		"defname": "cookie"
+	},
+	{
+		"abr": "finemeal",
+		"price": 30,
+		"category": "Meals",
+		"defname": "MealFine"
+	},
+	{
+		"abr": "grilledcheesesandwich",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "grilledcheese"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "mechanites",
+		"price": 30,
+		"category": "Manufactured",
+		"defname": "MFMechanitesBase"
+	},
+	{
+		"abr": "morphine",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Morphine"
+	},
+	{
+		"abr": "horseshoespin",
+		"price": 35,
+		"category": "Recreation",
+		"defname": "HorseshoesPin"
+	},
+	{
+		"abr": "makiroll",
+		"price": -10,
+		"category": "Fine Meals",
+		"defname": "MakiRoll"
+	},
+	{
+		"abr": "makivegetarianroll",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "MakiVegRoll"
+	},
+	{
+		"abr": "yayo",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "thickstoneroofing",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ThickStoneRoofFraming"
+	},
+	{
+		"abr": "fluez",
+		"price": 40,
+		"category": "Drugs",
+		"defname": "VG_FluEz"
+	},
+	{
+		"abr": "rum",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "rum"
+	},
+	{
+		"abr": "ostrichegg(fert.)",
+		"price": 40,
+		"category": "Eggs (fert.)",
+		"defname": "EggOstrichFertilized"
+	},
+	{
+		"abr": "tortoiseegg(fert.)",
+		"price": 40,
+		"category": "Eggs (fert.)",
+		"defname": "EggTortoiseFertilized"
+	},
+	{
+		"abr": "packagedsurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "MealSurvivalPack"
+	},
+	{
+		"abr": "tequila",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "tequila"
+	},
+	{
+		"abr": "torchlamp",
+		"price": -10,
+		"category": "Misc",
+		"defname": "TorchLamp"
+	},
+	{
+		"abr": "campfire",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Campfire"
+	},
+	{
+		"abr": "bakedpolenta",
+		"price": -10,
+		"category": "Fine Meals",
+		"defname": "bakedpolenta"
+	},
+	{
+		"abr": "bowlofstew",
+		"price": -10,
+		"category": "Lavish Meals",
+		"defname": "bowlstew"
+	},
+	{
+		"abr": "caramel",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "Caramel"
+	},
+	{
+		"abr": "cheeseburger",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "grilledmeat"
+	},
+	{
+		"abr": "fruitpieslice",
+		"price": -10,
+		"category": "Simple Meals",
+		"defname": "BlueberryPie"
+	},
+	{
+		"abr": "grilledpolenta",
+		"price": -10,
+		"category": "Fine Meals",
+		"defname": "grilledpolenta"
+	},
+	{
+		"abr": "hardcandy",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "Hardcandy"
+	},
+	{
+		"abr": "icecream",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "icecream"
+	},
+	{
+		"abr": "iguanaegg(fert.)",
+		"price": 40,
+		"category": "Eggs (fert.)",
+		"defname": "EggIguanaFertilized"
+	},
+	{
+		"abr": "muffin",
+		"price": -10,
+		"category": "Fine Meals",
+		"defname": "muffin"
+	},
+	{
+		"abr": "pizza",
+		"price": 40,
+		"category": "Lavish Meals",
+		"defname": "pizza"
+	},
+	{
+		"abr": "smoothie",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "smoothie"
+	},
+	{
+		"abr": "stirfry",
+		"price": -10,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "sweetbun",
+		"price": -10,
+		"category": "Fine Meals",
+		"defname": "sweetbun"
+	},
+	{
+		"abr": "taffy",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "Taffy"
+	},
+	{
+		"abr": "woodenfoot",
+		"price": 40,
+		"category": "Basic prostheses",
+		"defname": "WoodenFoot"
+	},
+	{
+		"abr": "yogurt",
+		"price": -10,
+		"category": "Sweets",
+		"defname": "yogurt"
+	},
+	{
+		"abr": "waistcloth",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_TribalPants"
+	},
+	{
+		"abr": "bamboocampfire",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VG_Campfire"
+	},
+	{
+		"abr": "aominisunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AO_MiniSunLamp"
+	},
+	{
+		"abr": "minisunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "MiniSunLamp"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": -10,
+		"category": "Oil",
+		"defname": "ChemfuelHopper"
+	},
+	{
+		"abr": "chemfuelsiphon",
+		"price": -10,
+		"category": "Oil",
+		"defname": "ChemfuelSiphon"
+	},
+	{
+		"abr": "hopper",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Hopper"
+	},
+	{
+		"abr": "refineryunloadingbay",
+		"price": -10,
+		"category": "Oil",
+		"defname": "RefineryLoadingBay"
+	},
+	{
+		"abr": "coldwatervalve",
+		"price": -10,
+		"category": "Misc",
+		"defname": "waterValve"
+	},
+	{
+		"abr": "coolantvalve",
+		"price": -10,
+		"category": "Misc",
+		"defname": "coolantValve"
+	},
+	{
+		"abr": "pipelinevalve",
+		"price": -10,
+		"category": "Oil",
+		"defname": "pipelineValve"
+	},
+	{
+		"abr": "steamvalve",
+		"price": -10,
+		"category": "Misc",
+		"defname": "steamValve"
+	},
+	{
+		"abr": "berrywine",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "strawberrywine"
+	},
+	{
+		"abr": "painting",
+		"price": -10,
+		"category": "Art",
+		"defname": "AJO_Painting"
+	},
+	{
+		"abr": "repairkit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "tribalshoulderpads",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Tribalpad"
+	},
+	{
+		"abr": "wine",
+		"price": -10,
+		"category": "Garden alcohol",
+		"defname": "Wine"
+	},
+	{
+		"abr": "patchpants",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Scrapants"
+	},
+	{
+		"abr": "shelf(1x1)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Shelf_1x1c"
+	},
+	{
+		"abr": "countertop",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_Counter"
+	},
+	{
+		"abr": "component",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "potassiumiodide",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "PotassiumIodide"
+	},
+	{
+		"abr": "embrasure",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ED_Embrasure"
+	},
+	{
+		"abr": "pileofbooks",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "AJO_PileOfBooks"
+	},
+	{
+		"abr": "rat",
+		"price": 60,
+		"category": "Animal",
+		"defname": "Rat"
+	},
+	{
+		"abr": "squirrel",
+		"price": 60,
+		"category": "Animal",
+		"defname": "Squirrel"
+	},
+	{
+		"abr": "structuregel",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "wake-up",
+		"price": 60,
+		"category": "Drugs",
+		"defname": "WakeUp"
+	},
+	{
+		"abr": "dartboard",
+		"price": 60,
+		"category": "Recreation",
+		"defname": "AJO_Dartboard"
+	},
+	{
+		"abr": "bluesterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileBlue"
+	},
+	{
+		"abr": "brownsterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileBrown"
+	},
+	{
+		"abr": "creamsterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileCream"
+	},
+	{
+		"abr": "darksterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileDark"
+	},
+	{
+		"abr": "goldsterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileGold"
+	},
+	{
+		"abr": "greensterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileGreen"
+	},
+	{
+		"abr": "redsterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileRed"
+	},
+	{
+		"abr": "tealsterilewall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Wall_SterileTeal"
+	},
+	{
+		"abr": "standinglamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp"
+	},
+	{
+		"abr": "standinglamp(blue)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "StandingLamp_Blue"
+	},
+	{
+		"abr": "standinglamp(green)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "StandingLamp_Green"
+	},
+	{
+		"abr": "standinglamp(red)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "StandingLamp_Red"
+	},
+	{
+		"abr": "alc",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ALC"
+	},
+	{
+		"abr": "atom",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ATOM"
+	},
+	{
+		"abr": "beamsplitter",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "BeamSplitter"
+	},
+	{
+		"abr": "cobraegg(fert.)",
+		"price": 60,
+		"category": "Eggs (fert.)",
+		"defname": "EggCobraFertilized"
+	},
+	{
+		"abr": "controlrodactuator",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ControlRodActuator"
+	},
+	{
+		"abr": "denture",
+		"price": 70,
+		"category": "Basic prostheses",
+		"defname": "denture"
+	},
+	{
+		"abr": "driveactuator",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "DriveActuator"
+	},
+	{
+		"abr": "ers",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ERS"
+	},
+	{
+		"abr": "heroin",
+		"price": 70,
+		"category": "Drugs",
+		"defname": "Heroin"
+	},
+	{
+		"abr": "lavishmeal",
+		"price": 70,
+		"category": "Meals",
+		"defname": "MealLavish"
+	},
+	{
+		"abr": "lensmodule",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "LenseModule"
+	},
+	{
+		"abr": "meps",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "MEPS"
+	},
+	{
+		"abr": "microscyther",
+		"price": 60,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "missilefuselage",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "MissileFuselage"
+	},
+	{
+		"abr": "rocketengine",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "RocketEngine"
+	},
+	{
+		"abr": "scad",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "SCAD"
+	},
+	{
+		"abr": "targetingchip",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "thornweedserum",
+		"price": 70,
+		"category": "Drugs",
+		"defname": "ThornWeedExtract"
+	},
+	{
+		"abr": "hoopstonering",
+		"price": 70,
+		"category": "Recreation",
+		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "passivecooler",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PassiveCooler"
+	},
+	{
+		"abr": "plantpot",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "PlantPot"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_1x1c"
+	},
+	{
+		"abr": "tribalshield",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Tribalshield"
+	},
+	{
+		"abr": "shortbow",
+		"price": 75,
+		"category": "Ranged weapons",
+		"defname": "Bow_Short"
+	},
+	{
+		"abr": "joy",
+		"price": 75,
+		"category": "Drugs",
+		"defname": "Joy"
+	},
+	{
+		"abr": "warveil",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "bowlerhat",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_BowlerHat"
+	},
+	{
+		"abr": "sparkgrid",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SparkGrid"
+	},
+	{
+		"abr": "aosmallsunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AO_SmallSunLamp"
+	},
+	{
+		"abr": "smallsunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SmallSunLamp"
+	},
+	{
+		"abr": "chicken",
+		"price": 80,
+		"category": "Animal",
+		"defname": "Chicken"
+	},
+	{
+		"abr": "crimsonbulb",
+		"price": 80,
+		"category": "Plant matter",
+		"defname": "CrimsonBulb"
+	},
+	{
+		"abr": "dusabotround",
+		"price": -10,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabotDU"
+	},
+	{
+		"abr": "earbandage",
+		"price": 80,
+		"category": "Basic prostheses",
+		"defname": "EarBandage"
+	},
+	{
+		"abr": "glitterworldmedicine",
+		"price": 80,
+		"category": "Medicine",
+		"defname": "MedicineUltratech"
+	},
+	{
+		"abr": "glowpod",
+		"price": 80,
+		"category": "Special",
+		"defname": "GlowPod"
+	},
+	{
+		"abr": "hare",
+		"price": 85,
+		"category": "Animal",
+		"defname": "Hare"
+	},
+	{
+		"abr": "snowhare",
+		"price": 85,
+		"category": "Animal",
+		"defname": "Snowhare"
+	},
+	{
+		"abr": "planterbox",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Planterbox"
+	},
+	{
+		"abr": "animalsleepingbox",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AnimalSleepingBox"
+	},
+	{
+		"abr": "tophat",
+		"price": 85,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Tophat"
+	},
+	{
+		"abr": "smallchandelier",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChanPart_1x1_Support"
+	},
+	{
+		"abr": "bench",
+		"price": 80,
+		"category": "Furniture",
+		"defname": "Seat_Bench"
+	},
+	{
+		"abr": "sittingcushion",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Seat_Cushion"
+	},
+	{
+		"abr": "stool",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Stool"
+	},
+	{
+		"abr": "researchcounter",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Facility_ResearchCounter"
+	},
+	{
+		"abr": "chefshat",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_FSChefsHat"
+	},
+	{
+		"abr": "go-juice",
+		"price": 90,
+		"category": "Drugs",
+		"defname": "GoJuice"
+	},
+	{
+		"abr": "door",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Door"
+	},
+	{
+		"abr": "gaudytribalmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Mojotwo"
+	},
+	{
+		"abr": "modesttribalmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Mojo"
+	},
+	{
+		"abr": "tuque",
+		"price": 90,
+		"category": "Headgear",
+		"defname": "Apparel_Tuque"
+	},
+	{
+		"abr": "empshell",
+		"price": 90,
+		"category": "Mortar shells",
+		"defname": "Shell_EMP"
+	},
+	{
+		"abr": "firefoamshell",
+		"price": 90,
+		"category": "Mortar shells",
+		"defname": "Shell_Firefoam"
+	},
+	{
+		"abr": "high-explosiveshell",
+		"price": 90,
+		"category": "Mortar shells",
+		"defname": "Shell_HighExplosive"
+	},
+	{
+		"abr": "incendiaryshell",
+		"price": 90,
+		"category": "Mortar shells",
+		"defname": "Shell_Incendiary"
+	},
+	{
+		"abr": "napalmshell",
+		"price": 90,
+		"category": "Mortar shells",
+		"defname": "Shell_Napalm"
+	},
+	{
+		"abr": "filecabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Misc_FileCabinet"
+	},
+	{
+		"abr": "cowboyhat",
+		"price": 90,
+		"category": "Headgear",
+		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "over-wallvent",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Vent_Over"
+	},
+	{
+		"abr": "vent",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Vent"
+	},
+	{
+		"abr": "table(1x2)",
+		"price": 100,
+		"category": "Furniture",
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "archnem©ski™goggles",
+		"price": -10,
+		"category": "Eyewear",
+		"defname": "Apparello_Brimsk"
+	},
+	{
+		"abr": "aviatorsunglasses",
+		"price": 100,
+		"category": "Eyewear",
+		"defname": "Apparello_Piloggle"
+	},
+	{
+		"abr": "plutonium",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "Plutonium"
+	},
+	{
+		"abr": "sciencegoggles",
+		"price": -10,
+		"category": "Eyewear",
+		"defname": "Apparello_Goggles"
+	},
+	{
+		"abr": "shuttlepilot'svisor",
+		"price": -10,
+		"category": "Eyewear",
+		"defname": "Apparello_Visoor"
+	},
+	{
+		"abr": "sunshades",
+		"price": 100,
+		"category": "Eyewear",
+		"defname": "Apparello_Shadess"
+	},
+	{
+		"abr": "baseballcap",
+		"price": 100,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Bandal"
+	},
+	{
+		"abr": "beret",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Beret"
+	},
+	{
+		"abr": "corkhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Plainhat"
+	},
+	{
+		"abr": "fedora",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Fedora"
+	},
+	{
+		"abr": "headsetwithbandana",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Headset"
+	},
+	{
+		"abr": "hood",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Hoood"
+	},
+	{
+		"abr": "kepi",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Lecap"
+	},
+	{
+		"abr": "sombrero",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Sombrero"
+	},
+	{
+		"abr": "ushanka",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Furhat"
+	},
+	{
+		"abr": "warmask",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_WarMask"
+	},
+	{
+		"abr": "powerswitch",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PowerSwitch"
+	},
+	{
+		"abr": "shelf",
+		"price": 100,
+		"category": "Furniture",
+		"defname": "Shelf"
+	},
+	{
+		"abr": "endtable",
+		"price": 100,
+		"category": "Furniture",
+		"defname": "EndTable"
+	},
+	{
+		"abr": "cardsharkhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cardshark"
+	},
+	{
+		"abr": "eyepatch",
+		"price": 108,
+		"category": "Basic prostheses",
+		"defname": "EyePatch"
+	},
+	{
+		"abr": "recurvebow",
+		"price": 110,
+		"category": "Ranged weapons",
+		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "knife",
+		"price": 110,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "slabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "smallwallmountedairvent",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WallAirVentSmall"
+	},
+	{
+		"abr": "simpleprostheticanimaltail",
+		"price": 112,
+		"category": "Animal Body Part",
+		"defname": "ProstheticTailAnimal"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_MojoFeather"
+	},
+	{
+		"abr": "makeshiftfuse",
+		"price": -10,
+		"category": "Power",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "surgicalmask",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_FSSurgicalMask"
+	},
+	{
+		"abr": "simpleanimalearimplant",
+		"price": 120,
+		"category": "Animal Body Part",
+		"defname": "EarAnimalSimple"
+	},
+	{
+		"abr": "simpleanimaljawimplant",
+		"price": 120,
+		"category": "Animal Body Part",
+		"defname": "JawAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalnose",
+		"price": 120,
+		"category": "Animal Body Part",
+		"defname": "NoseAnimalSimple"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 120,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "bandolier",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Ammobelt"
+	},
+	{
+		"abr": "bookrack",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_BookRack"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Light_Streetlamp"
+	},
+	{
+		"abr": "stonecampfire",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Stone_Campfire"
+	},
+	{
+		"abr": "sunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "SunLamp"
+	},
+	{
+		"abr": "aosunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AO_SunLamp"
+	},
+	{
+		"abr": "modernlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Light_ModernLamp"
+	},
+	{
+		"abr": "elephanttusk",
+		"price": 130,
+		"category": "Items",
+		"defname": "ElephantTusk"
+	},
+	{
+		"abr": "gasmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Gassy"
+	},
+	{
+		"abr": "huntingknife",
+		"price": 130,
+		"category": "Melee weapons",
+		"defname": "hunting_knife"
+	},
+	{
+		"abr": "hydra",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "Hydra"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "animalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AnimalBed"
+	},
+	{
+		"abr": "spiketrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "TrapSpike"
+	},
+	{
+		"abr": "smallbin",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bin_Small"
+	},
+	{
+		"abr": "modularhydroponicsbasin",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ModularHydroponicsBasin"
+	},
+	{
+		"abr": "bedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bedroll"
+	},
+	{
+		"abr": "simplebed",
+		"price": 140,
+		"category": "Furniture",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "weaponrack",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "shoulderpads",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Urpad"
+	},
+	{
+		"abr": "foodpreptable",
+		"price": -10,
+		"category": "Production",
+		"defname": "Canningstove"
+	},
+	{
+		"abr": "fueledfoodpreptable",
+		"price": -10,
+		"category": "Production",
+		"defname": "HandCanningstove"
+	},
+	{
+		"abr": "club",
+		"price": 140,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "adrenaline",
+		"price": 200,
+		"category": "Drugs",
+		"defname": "Adrenaline"
+	},
+	{
+		"abr": "pants",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparel_Pants"
+	},
+	{
+		"abr": "t-shirt",
+		"price": 140,
+		"category": "Apparel",
+		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "martialartstarget",
+		"price": 144,
+		"category": "Recreation",
+		"defname": "MartialArtsTarget"
+	},
+	{
+		"abr": "woolloom",
+		"price": -10,
+		"category": "Production",
+		"defname": "BenchWoolLoom"
+	},
+	{
+		"abr": "desertheadwrap",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_FSDesertWrap"
+	},
+	{
+		"abr": "aniracetam",
+		"price": 150,
+		"category": "Drugs",
+		"defname": "Aniracetam"
+	},
+	{
+		"abr": "tyrox",
+		"price": 150,
+		"category": "Drugs",
+		"defname": "Tyrox"
+	},
+	{
+		"abr": "paddyhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Tradecone"
+	},
+	{
+		"abr": "simplehelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_SimpleHelmet"
+	},
+	{
+		"abr": "game-of-urboard",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GameOfUrBoard"
+	},
+	{
+		"abr": "chandelier",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChanPart_2x2_Support"
+	},
+	{
+		"abr": "greatbow",
+		"price": 150,
+		"category": "Ranged weapons",
+		"defname": "Bow_Great"
+	},
+	{
+		"abr": "bed",
+		"price": 150,
+		"category": "Furniture",
+		"defname": "Bed"
+	},
+	{
+		"abr": "reinforcedduwall",
+		"price": -10,
+		"category": "Misc",
+		"defname": "RadiationShielding"
+	},
+	{
+		"abr": "apron",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Cookaprontosaurus"
+	},
+	{
+		"abr": "bibapron",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "Apparello_Smithaprontosaurus"
+	},
+	{
+		"abr": "button-downshirt",
+		"price": 160,
+		"category": "Apparel",
+		"defname": "Apparel_CollarShirt"
+	},
+	{
+		"abr": "millingstone",
+		"price": -10,
+		"category": "Production",
+		"defname": "GrindStone"
+	},
+	{
+		"abr": "antitox",
+		"price": 160,
+		"category": "Drugs",
+		"defname": "AntiTox"
+	},
+	{
+		"abr": "artificialclavicle",
+		"price": 160,
+		"category": "Simple prostheses",
+		"defname": "ArtificialClavicle"
+	},
+	{
+		"abr": "baguettriscartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartBG"
+	},
+	{
+		"abr": "boomrat",
+		"price": 160,
+		"category": "Animal",
+		"defname": "Boomrat"
+	},
+	{
+		"abr": "cat",
+		"price": 160,
+		"category": "Animal",
+		"defname": "Cat"
+	},
+	{
+		"abr": "chef'shat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Chefhat"
+	},
+	{
+		"abr": "cookingbabacartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartCB"
+	},
+	{
+		"abr": "eldersconescartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartES"
+	},
+	{
+		"abr": "glutendogscartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartGD"
+	},
+	{
+		"abr": "halvalifecartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartHL"
+	},
+	{
+		"abr": "homebrewcartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartHomebrew"
+	},
+	{
+		"abr": "iguana",
+		"price": 170,
+		"category": "Animal",
+		"defname": "Iguana"
+	},
+	{
+		"abr": "megascarab",
+		"price": 160,
+		"category": "Animal",
+		"defname": "Megascarab"
+	},
+	{
+		"abr": "mintcraftcartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartMC"
+	},
+	{
+		"abr": "monkey",
+		"price": 160,
+		"category": "Animal",
+		"defname": "Monkey"
+	},
+	{
+		"abr": "pegleg",
+		"price": 160,
+		"category": "Basic prostheses",
+		"defname": "PegLeg"
+	},
+	{
+		"abr": "plantsvs.salamiscartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartPS"
+	},
+	{
+		"abr": "psychoknotscartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartPK"
+	},
+	{
+		"abr": "raccoon",
+		"price": 160,
+		"category": "Animal",
+		"defname": "Raccoon"
+	},
+	{
+		"abr": "rumswirledcartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartRS"
+	},
+	{
+		"abr": "speltunkycartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartSP"
+	},
+	{
+		"abr": "thezimzcartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartTZ"
+	},
+	{
+		"abr": "traumavendorcartridge",
+		"price": -10,
+		"category": "Cartridges",
+		"defname": "AJO_CartTV"
+	},
+	{
+		"abr": "turkey",
+		"price": 160,
+		"category": "Animal",
+		"defname": "Turkey"
+	},
+	{
+		"abr": "woodencrossbow",
+		"price": 160,
+		"category": "Ranged weapons",
+		"defname": "wooden_crossbow"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": 160,
+		"category": "Animal",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "quarryplatform",
+		"price": -10,
+		"category": "Misc",
+		"defname": "QRY_Platform"
+	},
+	{
+		"abr": "clothingrack",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "composterbox",
+		"price": -10,
+		"category": "Production",
+		"defname": "VG_Composterbox"
+	},
+	{
+		"abr": "tunic",
+		"price": 170,
+		"category": "Apparel",
+		"defname": "Apparello_Tunic"
+	},
+	{
+		"abr": "dartsboard",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Joy_DartsBoard"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "shootingtarget",
+		"price": 175,
+		"category": "Recreation",
+		"defname": "ShootingRangeTarget"
+	},
+	{
+		"abr": "dresser",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Dresser"
+	},
+	{
+		"abr": "metalshoulderpads",
+		"price": 170,
+		"category": "Apparel",
+		"defname": "Apparello_Orkpad"
+	},
+	{
+		"abr": "pila",
+		"price": 180,
+		"category": "Ranged weapons",
+		"defname": "Pila"
+	},
+	{
+		"abr": "furhat",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_FSFurHat"
+	},
+	{
+		"abr": "orbitaltradebeacon",
+		"price": -10,
+		"category": "Misc",
+		"defname": "OrbitalTradeBeacon"
+	},
+	{
+		"abr": "chefjacket",
+		"price": 180,
+		"category": "Apparel",
+		"defname": "Apparel_FSChefJacket"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "radiationdetector",
+		"price": -10,
+		"category": "Misc",
+		"defname": "RadiationDetector"
+	},
+	{
+		"abr": "hookhand",
+		"price": 200,
+		"category": "Basic prostheses",
+		"defname": "HookHand"
+	},
+	{
+		"abr": "iedemptrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "TrapIED_EMP"
+	},
+	{
+		"abr": "iedfirefoamtrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "TrapIED_Firefoam"
+	},
+	{
+		"abr": "iedincendiarytrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "TrapIED_Incendiary"
+	},
+	{
+		"abr": "iedtrap",
+		"price": 190,
+		"category": "Security",
+		"defname": "TrapIED_HighExplosive"
+	},
+	{
+		"abr": "ikwa",
+		"price": 200,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Ikwa"
+	},
+	{
+		"abr": "diningchair",
+		"price": 200,
+		"category": "Furniture",
+		"defname": "DiningChair"
+	},
+	{
+		"abr": "squarechair",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Seat_SquareChair"
+	},
+	{
+		"abr": "archerytarget",
+		"price": 200,
+		"category": "Recreation",
+		"defname": "ArcheryTarget"
+	},
+	{
+		"abr": "luciferium",
+		"price": 200,
+		"category": "Drugs",
+		"defname": "Luciferium"
+	},
+	{
+		"abr": "makarovpistol",
+		"price": 200,
+		"category": "Ranged weapons",
+		"defname": "Gun_pm_cwm"
+	},
+	{
+		"abr": "outlandersscrapmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Raideroos"
+	},
+	{
+		"abr": "simpleanimalspine",
+		"price": 200,
+		"category": "Animal Body Part",
+		"defname": "SpineAnimalSimple"
+	},
+	{
+		"abr": "fermentingbarrel",
+		"price": -10,
+		"category": "Production",
+		"defname": "FermentingBarrel"
+	},
+	{
+		"abr": "mace",
+		"price": 200,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "tribalheaddress",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "Apparel_TribalHeaddress"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "paddedvest",
+		"price": 200,
+		"category": "Apparel",
+		"defname": "Apparello_Sheet"
+	},
+	{
+		"abr": "stablehandtrousers",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Suspender"
+	},
+	{
+		"abr": "urbantrousers",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Urbskin"
+	},
+	{
+		"abr": "tribalwear",
+		"price": 210,
+		"category": "Apparel",
+		"defname": "Apparel_TribalA"
+	},
+	{
+		"abr": "oven",
+		"price": -10,
+		"category": "Production",
+		"defname": "Oven"
+	},
+	{
+		"abr": "sarcophagus",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "gladius",
+		"price": 215,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "adv.modularhydroponicsbasin",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ADVModularHydroponicsBasin"
+	},
+	{
+		"abr": "fueledsweetstable",
+		"price": -10,
+		"category": "Production",
+		"defname": "FueledCandyTable"
+	},
+	{
+		"abr": "sweetstable",
+		"price": -10,
+		"category": "Production",
+		"defname": "CandyTable"
+	},
+	{
+		"abr": "heater",
+		"price": -10,
+		"category": "Temperature",
+		"defname": "Heater"
+	},
+	{
+		"abr": "simpleprostheticanimalarm",
+		"price": 220,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticArmAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimalleg",
+		"price": 220,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticLegAnimal"
+	},
+	{
+		"abr": "unionsuit",
+		"price": 220,
+		"category": "Apparel",
+		"defname": "Apparel_UniPjays"
+	},
+	{
+		"abr": "pallet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "wallmountedairvent",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WallAirVent"
+	},
+	{
+		"abr": "bigshelf",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "revolver",
+		"price": 220,
+		"category": "Ranged weapons",
+		"defname": "Gun_Revolver"
+	},
+	{
+		"abr": "podlauncher",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PodLauncher"
+	},
+	{
+		"abr": "autopistol",
+		"price": 200,
+		"category": "Ranged weapons",
+		"defname": "Gun_Autopistol"
+	},
+	{
+		"abr": "meshshirt",
+		"price": 230,
+		"category": "Apparel",
+		"defname": "Apparello_Urbulence"
+	},
+	{
+		"abr": "fineshirt",
+		"price": 235,
+		"category": "Apparel",
+		"defname": "Apparel_FSFineShirt"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "largechandelier",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ChanPart_3x3_Support"
+	},
+	{
+		"abr": "caravaneer'shat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Sandtrader"
+	},
+	{
+		"abr": "shuttlepilothelm",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Rockman"
+	},
+	{
+		"abr": "radiationmask",
+		"price": -10,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationMask"
+	},
+	{
+		"abr": "cargoshorts",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "Apparel_FSCargoShorts"
+	},
+	{
+		"abr": "brocadevest",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "Apparello_Brocade"
+	},
+	{
+		"abr": "capybara",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Capybara"
+	},
+	{
+		"abr": "chinchilla",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Chinchilla"
+	},
+	{
+		"abr": "cobra",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Cobra"
+	},
+	{
+		"abr": "coltmustang",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "Gun_coltmustang_cwm"
+	},
+	{
+		"abr": "gazelle",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Gazelle"
+	},
+	{
+		"abr": "writtenbook",
+		"price": -10,
+		"category": "Art",
+		"defname": "AJO_WrittenBook"
+	},
+	{
+		"abr": "transportpod",
+		"price": -10,
+		"category": "Misc",
+		"defname": "TransportPod"
+	},
+	{
+		"abr": "meathook",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "scrubs",
+		"price": 260,
+		"category": "Apparel",
+		"defname": "Apparel_FSScrubs"
+	},
+	{
+		"abr": "miniquarry",
+		"price": -10,
+		"category": "Misc",
+		"defname": "QRY_MiniQuarry"
+	},
+	{
+		"abr": "desertrobe",
+		"price": 260,
+		"category": "Apparel",
+		"defname": "Apparel_FSDesertRobe"
+	},
+	{
+		"abr": "basicmanagerdesk",
+		"price": -10,
+		"category": "Production",
+		"defname": "FM_BasicManagerStation"
+	},
+	{
+		"abr": "butchertable",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableButcher"
+	},
+	{
+		"abr": "handtailorbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "HandTailoringBench"
+	},
+	{
+		"abr": "fueledstove",
+		"price": -10,
+		"category": "Production",
+		"defname": "FueledStove"
+	},
+	{
+		"abr": "enviro-leggings",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Spacerpants"
+	},
+	{
+		"abr": "foodbasket",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "jeans",
+		"price": 270,
+		"category": "Pants",
+		"defname": "Apparello_Jeans"
+	},
+	{
+		"abr": "jodhpurs",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Jodhpurs"
+	},
+	{
+		"abr": "constructionjacket",
+		"price": 270,
+		"category": "Apparel",
+		"defname": "Apparel_FSConstructionJacket"
+	},
+	{
+		"abr": "smallsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "SculptureSmall"
+	},
+	{
+		"abr": "fancypants",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Holdem"
+	},
+	{
+		"abr": "jacket",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_Jacket"
+	},
+	{
+		"abr": "electricmillingstone",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricGrindStone"
+	},
+	{
+		"abr": "tailor'sloom",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableLoom"
+	},
+	{
+		"abr": "smokepopbelt",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_SmokepopBelt"
+	},
+	{
+		"abr": "circuitbreaker",
+		"price": -10,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "royaltable(1x1)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "checkeredtrousers",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_square"
+	},
+	{
+		"abr": "chesstable",
+		"price": 280,
+		"category": "Furniture",
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "wardrobe",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_Wardrobe"
+	},
+	{
+		"abr": "doublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDouble"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 290,
+		"category": "Mortar shells",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "doublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBed"
+	},
+	{
+		"abr": "intravenousdripstand",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Facility_IVDrip"
+	},
+	{
+		"abr": "gardeningvest",
+		"price": 300,
+		"category": "Apparel",
+		"defname": "Apparel_FSGardeningVest"
+	},
+	{
+		"abr": "cargopants",
+		"price": 300,
+		"category": "Pants",
+		"defname": "Apparello_Pollypocket"
+	},
+	{
+		"abr": "firefoampopper",
+		"price": -10,
+		"category": "Misc",
+		"defname": "FirefoamPopper"
+	},
+	{
+		"abr": "beretta92",
+		"price": 300,
+		"category": "Ranged weapons",
+		"defname": "Gun_m9_cwm"
+	},
+	{
+		"abr": "sodatable",
+		"price": -10,
+		"category": "Production",
+		"defname": "CPD_DrinksTable"
+	},
+	{
+		"abr": "skip",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "largebin",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bin_Large"
+	},
+	{
+		"abr": "readingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ReadingTable"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "trader'scoat",
+		"price": 300,
+		"category": "Apparel",
+		"defname": "Apparello_Trypophobiaa"
+	},
+	{
+		"abr": "gasmask",
+		"price": 300,
+		"category": "Headgear",
+		"defname": "Apparel_FSGasmask"
+	},
+	{
+		"abr": "chaps",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Chapel"
+	},
+	{
+		"abr": "parka",
+		"price": 315,
+		"category": "Apparel",
+		"defname": "Apparel_Parka"
+	},
+	{
+		"abr": "tradereportsprinter",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ASReportsPrinter"
+	},
+	{
+		"abr": "jumpsuit",
+		"price": 320,
+		"category": "Apparel",
+		"defname": "Apparello_GSkin"
+	},
+	{
+		"abr": "leatherpants",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Lederhose"
+	},
+	{
+		"abr": "overalls",
+		"price": 320,
+		"category": "Apparel",
+		"defname": "Apparello_XcomOne"
+	},
+	{
+		"abr": "overalls",
+		"price": 320,
+		"category": "Apparel",
+		"defname": "Apparel_FSOveralls"
+	},
+	{
+		"abr": "skirt",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Skirtwirly"
+	},
+	{
+		"abr": "tradereportslog",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ASReportsLog"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "spear",
+		"price": 325,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "autodoor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Autodoor"
+	},
+	{
+		"abr": "bonecrossbow",
+		"price": 325,
+		"category": "Ranged weapons",
+		"defname": "bone_crossbow"
+	},
+	{
+		"abr": "duster",
+		"price": 320,
+		"category": "Apparel",
+		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "battery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery"
+	},
+	{
+		"abr": "advancedcomponent",
+		"price": 300,
+		"category": "Manufactured",
+		"defname": "ComponentSpacer"
+	},
+	{
+		"abr": "arcticfox",
+		"price": 330,
+		"category": "Animal",
+		"defname": "Fox_Arctic"
+	},
+	{
+		"abr": "bookshelf",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_Bookshelf"
+	},
+	{
+		"abr": "cassowary",
+		"price": 300,
+		"category": "Animal",
+		"defname": "Cassowary"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 330,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "emu",
+		"price": 330,
+		"category": "Animal",
+		"defname": "Emu"
+	},
+	{
+		"abr": "fennecfox",
+		"price": 330,
+		"category": "Animal",
+		"defname": "Fox_Fennec"
+	},
+	{
+		"abr": "fueledsmithy",
+		"price": -10,
+		"category": "Production",
+		"defname": "FueledSmithy"
+	},
+	{
+		"abr": "hardhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Hardhat"
+	},
+	{
+		"abr": "herculium",
+		"price": 330,
+		"category": "Drugs",
+		"defname": "MFHerculium"
+	},
+	{
+		"abr": "hydraulicjaw",
+		"price": 330,
+		"category": "Simple prostheses",
+		"defname": "HydraulicJaw"
+	},
+	{
+		"abr": "medic'sbandana",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Medband"
+	},
+	{
+		"abr": "peithium",
+		"price": 330,
+		"category": "Drugs",
+		"defname": "MFPeithium"
+	},
+	{
+		"abr": "pig",
+		"price": 330,
+		"category": "Animal",
+		"defname": "Pig"
+	},
+	{
+		"abr": "redfox",
+		"price": 330,
+		"category": "Animal",
+		"defname": "Fox_Red"
+	},
+	{
+		"abr": "spelopede",
+		"price": 335,
+		"category": "Animal",
+		"defname": "Spelopede"
+	},
+	{
+		"abr": "steelarm",
+		"price": 335,
+		"category": "Basic prostheses",
+		"defname": "SteelArm"
+	},
+	{
+		"abr": "surgeon'sapron",
+		"price": 330,
+		"category": "Apparel",
+		"defname": "Apparello_MedicalApron"
+	},
+	{
+		"abr": "table(2x4)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "throwingknife",
+		"price": 330,
+		"category": "Ranged weapons",
+		"defname": "throwing_knife"
+	},
+	{
+		"abr": "tortoise",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Tortoise"
+	},
+	{
+		"abr": "weldingmask",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Wendywelder"
+	},
+	{
+		"abr": "wildboar",
+		"price": 330,
+		"category": "Animal",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "paddedpants",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Armorpants"
+	},
+	{
+		"abr": "writingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_WritingTable"
+	},
+	{
+		"abr": "simpleresearchbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "table(3x3)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table3x3c"
+	},
+	{
+		"abr": "stonecutter'stable",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "vitalsmonitor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "animalprostheticstable",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableAnimalProsthetics"
+	},
+	{
+		"abr": "electricoven",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricOven"
+	},
+	{
+		"abr": "machete",
+		"price": 366,
+		"category": "Melee weapons",
+		"defname": "machete"
+	},
+	{
+		"abr": "electricstove",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricStove"
+	},
+	{
+		"abr": "flakpants",
+		"price": 375,
+		"category": "Apparel",
+		"defname": "Apparel_FlakPants"
+	},
+	{
+		"abr": "flakvest",
+		"price": 375,
+		"category": "Apparel",
+		"defname": "Apparel_FlakVest"
+	},
+	{
+		"abr": "miniheatedsunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HeatedMiniSunLamp"
+	},
+	{
+		"abr": "punchingbag",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Joy_PunchingBag"
+	},
+	{
+		"abr": "tinkercraftchefhat",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Chefhatplus"
+	},
+	{
+		"abr": "basicprostheticsworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableBasicProsthetic"
+	},
+	{
+		"abr": "crossbowwithoptics",
+		"price": 380,
+		"category": "Ranged weapons",
+		"defname": "Gun_newcrossbow"
+	},
+	{
+		"abr": "intakeairfan",
+		"price": -10,
+		"category": "Misc",
+		"defname": "IntakeFan"
+	},
+	{
+		"abr": "minihydroponicsbay",
+		"price": -10,
+		"category": "Production",
+		"defname": "HDH_Hydroponics_mini"
+	},
+	{
+		"abr": "napalmbomb",
+		"price": -10,
+		"category": "Misc",
+		"defname": "NapalmBomb"
+	},
+	{
+		"abr": "radiationsuit",
+		"price": -10,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationSuit"
+	},
+	{
+		"abr": "poncho",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Apparello_PonPon"
+	},
+	{
+		"abr": "raiderjacket",
+		"price": 390,
+		"category": "Apparel",
+		"defname": "Apparello_Skull"
+	},
+	{
+		"abr": "joywirer'scap",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Raz"
+	},
+	{
+		"abr": "pokertable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "PokerTable"
+	},
+	{
+		"abr": "molotovcocktails",
+		"price": 400,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeMolotov"
+	},
+	{
+		"abr": "shuriken",
+		"price": 400,
+		"category": "Ranged weapons",
+		"defname": "shuriken"
+	},
+	{
+		"abr": "alphabeaver",
+		"price": 400,
+		"category": "Animal",
+		"defname": "Alphabeaver"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "deer",
+		"price": 410,
+		"category": "Animal",
+		"defname": "Deer"
+	},
+	{
+		"abr": "glock21",
+		"price": 420,
+		"category": "Ranged weapons",
+		"defname": "Gun_glock21_cwm"
+	},
+	{
+		"abr": "husky",
+		"price": 420,
+		"category": "Animal",
+		"defname": "Husky"
+	},
+	{
+		"abr": "ibex",
+		"price": 420,
+		"category": "Animal",
+		"defname": "Ibex"
+	},
+	{
+		"abr": "labradorretriever",
+		"price": 420,
+		"category": "Animal",
+		"defname": "LabradorRetriever"
+	},
+	{
+		"abr": "lynx",
+		"price": 420,
+		"category": "Animal",
+		"defname": "Lynx"
+	},
+	{
+		"abr": "m1911",
+		"price": 420,
+		"category": "Ranged weapons",
+		"defname": "Gun_m1911_cwm"
+	},
+	{
+		"abr": "ostrich",
+		"price": 410,
+		"category": "Animal",
+		"defname": "Ostrich"
+	},
+	{
+		"abr": "psychicfoilhelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_PsychicFoilHelmet"
+	},
+	{
+		"abr": "solarcontroller",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SolarController"
+	},
+	{
+		"abr": "bolt-actionrifle",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Gun_BoltActionRifle"
+	},
+	{
+		"abr": "pumpshotgun",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Gun_PumpShotgun"
+	},
+	{
+		"abr": "sculptor'stable",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableSculpting"
+	},
+	{
+		"abr": "industrialfermentingbarrel",
+		"price": -10,
+		"category": "Production",
+		"defname": "VG_LargeFermentingBarrel"
+	},
+	{
+		"abr": "industrialradio",
+		"price": 430,
+		"category": "Recreation",
+		"defname": "Radio_Industrial"
+	},
+	{
+		"abr": "longcoat",
+		"price": 430,
+		"category": "Apparel",
+		"defname": "Apparello_Longlylonglong"
+	},
+	{
+		"abr": "smallheatedsunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HeatedSmallSunLamp"
+	},
+	{
+		"abr": "advancedhelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_AdvancedHelmet"
+	},
+	{
+		"abr": "brewery",
+		"price": -10,
+		"category": "Production",
+		"defname": "Brewery"
+	},
+	{
+		"abr": "fraggrenades",
+		"price": 440,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeFrag"
+	},
+	{
+		"abr": "longsword",
+		"price": 440,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_LongSword"
+	},
+	{
+		"abr": "medicaluniformcoat",
+		"price": 440,
+		"category": "Apparel",
+		"defname": "Apparello_SFSurge"
+	},
+	{
+		"abr": "militaryfatigues",
+		"price": 440,
+		"category": "Apparel",
+		"defname": "Apparel_FSFatigues"
+	},
+	{
+		"abr": "uniformcoat",
+		"price": 440,
+		"category": "Apparel",
+		"defname": "Apparello_Preston"
+	},
+	{
+		"abr": "windturbine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WindTurbine"
+	},
+	{
+		"abr": "wood-firedgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WoodFiredGenerator"
+	},
+	{
+		"abr": "armchair",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Armchair"
+	},
+	{
+		"abr": "ergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic"
+	},
+	{
+		"abr": "tac-teamheadcover",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cyninja"
+	},
+	{
+		"abr": "chemfuelstorage",
+		"price": -10,
+		"category": "Misc",
+		"defname": "FuelStorage"
+	},
+	{
+		"abr": "cooler",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Cooler"
+	},
+	{
+		"abr": "crudeoilstorage",
+		"price": -10,
+		"category": "Misc",
+		"defname": "OilStorage"
+	},
+	{
+		"abr": "moisturepump",
+		"price": -10,
+		"category": "Misc",
+		"defname": "MoisturePump"
+	},
+	{
+		"abr": "nutrientpastedispenser",
+		"price": -10,
+		"category": "Misc",
+		"defname": "NutrientPasteDispenser"
+	},
+	{
+		"abr": "over-wallcooler",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Cooler_Over"
+	},
+	{
+		"abr": "over-wallcooler(wide)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Cooler_Over2W"
+	},
+	{
+		"abr": ".44magnum",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_magnum44_cwm"
+	},
+	{
+		"abr": "heatedsunlamp",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HeatedSunLamp"
+	},
+	{
+		"abr": "bionicanimalkidney",
+		"price": 480,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalKidney"
+	},
+	{
+		"abr": "bionicanimalliver",
+		"price": 480,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalLiver"
+	},
+	{
+		"abr": "bionicanimallung",
+		"price": 480,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalLung"
+	},
+	{
+		"abr": "canningtable",
+		"price": -10,
+		"category": "Production",
+		"defname": "CanningFactory"
+	},
+	{
+		"abr": "flakjacket",
+		"price": 490,
+		"category": "Apparel",
+		"defname": "Apparel_FlakJacket"
+	},
+	{
+		"abr": "bionicanimalstomach",
+		"price": 490,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalStomach"
+	},
+	{
+		"abr": "chemfuelpoweredgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "electricsmithy",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "hydroponicsbasin",
+		"price": -10,
+		"category": "Misc",
+		"defname": "HydroponicsBasin"
+	},
+	{
+		"abr": "solargenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SolarGenerator"
+	},
+	{
+		"abr": "an-m14",
+		"price": 500,
+		"category": "Grenades",
+		"defname": "G_m14_cwm"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 500,
+		"category": "Simple prostheses",
+		"defname": "ArtificialNose"
+	},
+	{
+		"abr": "caribou",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Caribou"
+	},
+	{
+		"abr": "cow",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Cow"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 500,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "deserteagle",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_deserteagle_cwm"
+	},
+	{
+		"abr": "dromedary",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Dromedary"
+	},
+	{
+		"abr": "elk",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Elk"
+	},
+	{
+		"abr": "f1grenade",
+		"price": 500,
+		"category": "Grenades",
+		"defname": "G_f1_cwm"
+	},
+	{
+		"abr": "goldeneye",
+		"price": 500,
+		"category": "Simple prostheses",
+		"defname": "GoldenEye"
+	},
+	{
+		"abr": "m72law",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_m72_cwm"
+	},
+	{
+		"abr": "moppmask(desert)",
+		"price": -10,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskDesert"
+	},
+	{
+		"abr": "moppmask(snow)",
+		"price": -10,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskSnow"
+	},
+	{
+		"abr": "moppmask(woodland)",
+		"price": -10,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskWoodland"
+	},
+	{
+		"abr": "muffalo",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Muffalo"
+	},
+	{
+		"abr": "standardissueoveralls",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Standissue"
+	},
+	{
+		"abr": "wrench",
+		"price": 500,
+		"category": "Melee weapons",
+		"defname": "wrench"
+	},
+	{
+		"abr": "incendiarylauncher",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_IncendiaryLauncher"
+	},
+	{
+		"abr": "managerdesk",
+		"price": -10,
+		"category": "Production",
+		"defname": "FM_ManagerStation"
+	},
+	{
+		"abr": "mini-turret",
+		"price": 500,
+		"category": "Security",
+		"defname": "Turret_MiniTurret"
+	},
+	{
+		"abr": "operatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable"
+	},
+	{
+		"abr": "izh43",
+		"price": 520,
+		"category": "Ranged weapons",
+		"defname": "Gun_izh43_cwm"
+	},
+	{
+		"abr": "largesculpture",
+		"price": 520,
+		"category": "Art",
+		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "oldcomputer",
+		"price": 510,
+		"category": "Recreation",
+		"defname": "Joy_InudstrialComputer"
+	},
+	{
+		"abr": "toz-34",
+		"price": 520,
+		"category": "Ranged weapons",
+		"defname": "Gun_toz34_cwm"
+	},
+	{
+		"abr": "electricloom",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableElecLoom"
+	},
+	{
+		"abr": "empgrenades",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeEMP"
+	},
+	{
+		"abr": "tubetelevision",
+		"price": 525,
+		"category": "Recreation",
+		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "electrictailorbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricTailoringBench"
+	},
+	{
+		"abr": "medic'skevlarhelmet",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Medihelmet"
+	},
+	{
+		"abr": "arcadeconstructiontable",
+		"price": -10,
+		"category": "Production",
+		"defname": "AJO_TableArcadeConstruction"
+	},
+	{
+		"abr": "royaltable(1x2)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "tallshelves",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "furcoat",
+		"price": 560,
+		"category": "Apparel",
+		"defname": "Apparel_FSFurCoat"
+	},
+	{
+		"abr": "thermalpants",
+		"price": 560,
+		"category": "Apparel",
+		"defname": "Apparel_FSThermalPants"
+	},
+	{
+		"abr": "alpaca",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Alpaca"
+	},
+	{
+		"abr": "arcticwolf",
+		"price": 580,
+		"category": "Animal",
+		"defname": "Wolf_Arctic"
+	},
+	{
+		"abr": "beretta93r",
+		"price": 580,
+		"category": "Ranged weapons",
+		"defname": "Gun_m93r_cwm"
+	},
+	{
+		"abr": "boomalope",
+		"price": 580,
+		"category": "Animal",
+		"defname": "Boomalope"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "scorpionvz.68",
+		"price": 580,
+		"category": "Ranged weapons",
+		"defname": "Gun_scorpionvz68_cwm"
+	},
+	{
+		"abr": "telescope",
+		"price": 585,
+		"category": "Recreation",
+		"defname": "Telescope"
+	},
+	{
+		"abr": "timberwolf",
+		"price": 580,
+		"category": "Animal",
+		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "tinkeringbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "ApparelloTinkerer"
+	},
+	{
+		"abr": "heavysmg",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "Gun_HeavySMG"
+	},
+	{
+		"abr": "soylentmachine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "soylenttable"
+	},
+	{
+		"abr": "billiardstable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BilliardsTable"
+	},
+	{
+		"abr": "high-densityhydroponicsbay",
+		"price": -10,
+		"category": "Production",
+		"defname": "HDH_Hydroponics"
+	},
+	{
+		"abr": "commsconsole",
+		"price": -10,
+		"category": "Misc",
+		"defname": "CommsConsole"
+	},
+	{
+		"abr": "infiltratorheadgear",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Yi"
+	},
+	{
+		"abr": "quarry",
+		"price": -10,
+		"category": "Misc",
+		"defname": "QRY_Quarry"
+	},
+	{
+		"abr": "dublastdoor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "DU_Blastdoor"
+	},
+	{
+		"abr": "canningfactory",
+		"price": -10,
+		"category": "Production",
+		"defname": "VG_CanningFactory"
+	},
+	{
+		"abr": "resourceconsole",
+		"price": -10,
+		"category": "Oil",
+		"defname": "ResourceConsole"
+	},
+	{
+		"abr": "toolcabinet",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ToolCabinet"
+	},
+	{
+		"abr": "arcademachine",
+		"price": -10,
+		"category": "Recreation",
+		"defname": "Joy_Arcade"
+	},
+	{
+		"abr": "shieldbelt",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "bionicanimalheart",
+		"price": 660,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalHeart"
+	},
+	{
+		"abr": "bookcase",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_Bookcase"
+	},
+	{
+		"abr": "cougar",
+		"price": 660,
+		"category": "Animal",
+		"defname": "Cougar"
+	},
+	{
+		"abr": "crudebatterypack",
+		"price": 660,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 660,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 660,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 660,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "electricsmelter",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricSmelter"
+	},
+	{
+		"abr": "explorer'smorion",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Moron"
+	},
+	{
+		"abr": "hospitalbed",
+		"price": 660,
+		"category": "Furniture",
+		"defname": "HospitalBed"
+	},
+	{
+		"abr": "marinehelmet",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Doom"
+	},
+	{
+		"abr": "panther",
+		"price": 660,
+		"category": "Animal",
+		"defname": "Panther"
+	},
+	{
+		"abr": "simpleprostheticfoot",
+		"price": 660,
+		"category": "Simple prostheses",
+		"defname": "SimpleProstheticFoot"
+	},
+	{
+		"abr": "uzicarbine",
+		"price": 660,
+		"category": "Ranged weapons",
+		"defname": "Gun_uzi_cwm"
+	},
+	{
+		"abr": "winchestermodel1887",
+		"price": 660,
+		"category": "Ranged weapons",
+		"defname": "Gun_winmodel1887_cwm"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "chainshotgun",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChainShotgun"
+	},
+	{
+		"abr": "surroundairvent",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SurroundAirVent"
+	},
+	{
+		"abr": "ads",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCADS"
+	},
+	{
+		"abr": "electriccrematorium",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "mossberg500a",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "Gun_mossberg500a_cwm"
+	},
+	{
+		"abr": "lmg",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "Gun_LMG"
+	},
+	{
+		"abr": "mortar",
+		"price": 700,
+		"category": "Security",
+		"defname": "Turret_Mortar"
+	},
+	{
+		"abr": "roulettetable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "cryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "druglab",
+		"price": -10,
+		"category": "Production",
+		"defname": "DrugLab"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 740,
+		"category": "Furniture",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "artificialpelvis",
+		"price": 750,
+		"category": "Simple prostheses",
+		"defname": "ArtificialPelvis"
+	},
+	{
+		"abr": "m1928a1",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Gun_tompson_cwm"
+	},
+	{
+		"abr": "ppsh",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Gun_ppsh_cwm"
+	},
+	{
+		"abr": "remington870",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Gun_remington870_cwm"
+	},
+	{
+		"abr": "simpleprosthetichand",
+		"price": 750,
+		"category": "Simple prostheses",
+		"defname": "SimpleProstheticHand"
+	},
+	{
+		"abr": "warg",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Warg"
+	},
+	{
+		"abr": "gunsmithingbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "ModernGunsmithingBench"
+	},
+	{
+		"abr": "machiningtable",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableMachining"
+	},
+	{
+		"abr": "napalmrefiner",
+		"price": -10,
+		"category": "Oil",
+		"defname": "NapalmRefiner"
+	},
+	{
+		"abr": "reactorconsole",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorControl"
+	},
+	{
+		"abr": "synthylenerefiner",
+		"price": -10,
+		"category": "Oil",
+		"defname": "SynthyleneRefiner"
+	},
+	{
+		"abr": "mp40",
+		"price": 780,
+		"category": "Ranged weapons",
+		"defname": "Gun_mp40_cwm"
+	},
+	{
+		"abr": "saiga12k",
+		"price": 780,
+		"category": "Ranged weapons",
+		"defname": "Gun_saiga12_cwm"
+	},
+	{
+		"abr": "spas-12",
+		"price": 785,
+		"category": "Ranged weapons",
+		"defname": "Gun_spas12_cwm"
+	},
+	{
+		"abr": "deepoilwell",
+		"price": -10,
+		"category": "Misc",
+		"defname": "DeepOilWell"
+	},
+	{
+		"abr": "lightreceptor",
+		"price": 790,
+		"category": "Simple prostheses",
+		"defname": "LightReceptor"
+	},
+	{
+		"abr": "moppsuit(desert)",
+		"price": -10,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitDesert"
+	},
+	{
+		"abr": "moppsuit(snow)",
+		"price": -10,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitSnow"
+	},
+	{
+		"abr": "moppsuit(woodland)",
+		"price": -10,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitWoodland"
+	},
+	{
+		"abr": "oilwell",
+		"price": -10,
+		"category": "Misc",
+		"defname": "OilWell"
+	},
+	{
+		"abr": "platearmor",
+		"price": 790,
+		"category": "Apparel",
+		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "teslacoil",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCTeslaCoil"
+	},
+	{
+		"abr": "airclimatecontrol",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AirThermal"
+	},
+	{
+		"abr": "assaultrifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultRifle"
+	},
+	{
+		"abr": "cookingtools",
+		"price": -10,
+		"category": "Production",
+		"defname": "CookingTools"
+	},
+	{
+		"abr": "rimatomicsmachiningtable",
+		"price": -10,
+		"category": "Misc",
+		"defname": "TableRimatomicsMachining"
+	},
+	{
+		"abr": "aks74u",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_aks74u_cwm"
+	},
+	{
+		"abr": "synthreadrefiner",
+		"price": -10,
+		"category": "Oil",
+		"defname": "SynthreadRefiner"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 800,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 800,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "clanmarkedbalaclava",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Footy"
+	},
+	{
+		"abr": "cochlearimplant",
+		"price": 830,
+		"category": "Simple prostheses",
+		"defname": "CochlearImplant"
+	},
+	{
+		"abr": "ear",
+		"price": 830,
+		"category": "Natural",
+		"defname": "Ear"
+	},
+	{
+		"abr": "emptyarcade",
+		"price": -10,
+		"category": "Arcades",
+		"defname": "AJO_ArcadeEmpty"
+	},
+	{
+		"abr": "jaw",
+		"price": 830,
+		"category": "Natural",
+		"defname": "Jaw"
+	},
+	{
+		"abr": "m1014",
+		"price": 830,
+		"category": "Ranged weapons",
+		"defname": "Gun_m1014_cwm"
+	},
+	{
+		"abr": "megaspider",
+		"price": 830,
+		"category": "Animal",
+		"defname": "Megaspider"
+	},
+	{
+		"abr": "mosin–nagant",
+		"price": 830,
+		"category": "Ranged weapons",
+		"defname": "Gun_mosin_cwm"
+	},
+	{
+		"abr": "mp5sd",
+		"price": 830,
+		"category": "Ranged weapons",
+		"defname": "Gun_mp5sd_cwm"
+	},
+	{
+		"abr": "mp5а2",
+		"price": 830,
+		"category": "Ranged weapons",
+		"defname": "Gun_mp5a2_cwm"
+	},
+	{
+		"abr": "nose",
+		"price": 830,
+		"category": "Natural",
+		"defname": "Nose"
+	},
+	{
+		"abr": "qbz-95b",
+		"price": 830,
+		"category": "Ranged weapons",
+		"defname": "Gun_qbz95b_cwm"
+	},
+	{
+		"abr": "rpo-zshmel",
+		"price": 830,
+		"category": "Ranged weapons",
+		"defname": "Gun_prozshmel_cwm"
+	},
+	{
+		"abr": "steelframing",
+		"price": 835,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "surgeon'sheadgear",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Docteur"
+	},
+	{
+		"abr": "tunicaelmógo",
+		"price": 830,
+		"category": "Apparel",
+		"defname": "Apparello_Mogo"
+	},
+	{
+		"abr": "wanderer'shatandmask",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Zorro"
+	},
+	{
+		"abr": "aa12",
+		"price": 850,
+		"category": "Ranged weapons",
+		"defname": "Gun_aa12_cwm"
+	},
+	{
+		"abr": "ergonomicchair",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Seat_ModernChair"
+	},
+	{
+		"abr": "advancedhydroponicsbasin",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ADVHydroponicsBasin"
+	},
+	{
+		"abr": "bionicanimalearimplant",
+		"price": 860,
+		"category": "Animal Body Part",
+		"defname": "EarAnimalBionic"
+	},
+	{
+		"abr": "bionicanimaleye",
+		"price": 860,
+		"category": "Animal Body Part",
+		"defname": "BionicEyeAnimal"
+	},
+	{
+		"abr": "bionicanimaljaw",
+		"price": 860,
+		"category": "Animal Body Part",
+		"defname": "JawAnimalBionic"
+	},
+	{
+		"abr": "dao-12",
+		"price": 860,
+		"category": "Ranged weapons",
+		"defname": "Gun_dao12_cwm"
+	},
+	{
+		"abr": "ergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic"
+	},
+	{
+		"abr": "highvoltagetransformer",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Transformer"
+	},
+	{
+		"abr": "hkump",
+		"price": 860,
+		"category": "Ranged weapons",
+		"defname": "Gun_ump_cwm"
+	},
+	{
+		"abr": "sniperrifle",
+		"price": 880,
+		"category": "Ranged weapons",
+		"defname": "Gun_SniperRifle"
+	},
+	{
+		"abr": "bionicanimalarm",
+		"price": 890,
+		"category": "Animal Body Part",
+		"defname": "BionicArmAnimal"
+	},
+	{
+		"abr": "bionicanimalleg",
+		"price": 890,
+		"category": "Animal Body Part",
+		"defname": "BionicLegAnimal"
+	},
+	{
+		"abr": "mk3a1",
+		"price": 890,
+		"category": "Ranged weapons",
+		"defname": "Gun_jackhammer_cwm"
+	},
+	{
+		"abr": "usas-12",
+		"price": 890,
+		"category": "Ranged weapons",
+		"defname": "Gun_usas12_cwm"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": -10,
+		"category": "Production",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "deepdrill",
+		"price": -10,
+		"category": "Production",
+		"defname": "DeepDrill"
+	},
+	{
+		"abr": "piano",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Joy_Piano"
+	},
+	{
+		"abr": "royalchair",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "simpleprostheticsworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableSimpleProsthetic"
+	},
+	{
+		"abr": "m4a2",
+		"price": 910,
+		"category": "Ranged weapons",
+		"defname": "Gun_m4a2_cwm"
+	},
+	{
+		"abr": "machinepistol",
+		"price": 910,
+		"category": "Ranged weapons",
+		"defname": "Gun_MachinePistol"
+	},
+	{
+		"abr": "pp-19",
+		"price": 920,
+		"category": "Ranged weapons",
+		"defname": "Gun_pp19_cwm"
+	},
+	{
+		"abr": "psychicshocklance",
+		"price": 920,
+		"category": "Artifacts",
+		"defname": "PsychicShockLance"
+	},
+	{
+		"abr": "psyco.gasmask™",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparel_Psymask"
+	},
+	{
+		"abr": "sigsg516cqb",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "Gun_sig516_cwm"
+	},
+	{
+		"abr": "stationarydshkm",
+		"price": 985,
+		"category": "Security",
+		"defname": "Gun_dshkm_def"
+	},
+	{
+		"abr": "stationarym2",
+		"price": 985,
+		"category": "Security",
+		"defname": "Gun_m2_def"
+	},
+	{
+		"abr": "ak74",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_ak74_cwm"
+	},
+	{
+		"abr": "aks74",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_aks74_cwm"
+	},
+	{
+		"abr": "elephant",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "Elephant"
+	},
+	{
+		"abr": "gewehr98",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_gewehr98_cwm"
+	},
+	{
+		"abr": "joywirer'sbrocade",
+		"price": 1000,
+		"category": "Apparel",
+		"defname": "Apparello_Medicade"
+	},
+	{
+		"abr": "m16a1",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_m16a1_cwm"
+	},
+	{
+		"abr": "psychicsoothepulser",
+		"price": 1000,
+		"category": "Artifacts",
+		"defname": "PsychicSoothePulser"
+	},
+	{
+		"abr": "silentjawimplant",
+		"price": 1000,
+		"category": "Bionics",
+		"defname": "SilentJaw"
+	},
+	{
+		"abr": "watermillgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WatermillGenerator"
+	},
+	{
+		"abr": "longwaveradio",
+		"price": 1030,
+		"category": "Recreation",
+		"defname": "Radio_Spacer"
+	},
+	{
+		"abr": "bionicanimalspine",
+		"price": 1050,
+		"category": "Animal Body Part",
+		"defname": "SpineAnimalBionic"
+	},
+	{
+		"abr": "marinehelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "Apparel_PowerArmorHelmet"
+	},
+	{
+		"abr": "ak104",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_ak104_cwm"
+	},
+	{
+		"abr": "ak107",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_ak107_cwm"
+	},
+	{
+		"abr": "fnp90",
+		"price": 1080,
+		"category": "Ranged weapons",
+		"defname": "Gun_p90_cwm"
+	},
+	{
+		"abr": "hel",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCHEL"
+	},
+	{
+		"abr": "m1garand",
+		"price": 1080,
+		"category": "Ranged weapons",
+		"defname": "Gun_m1_cwm"
+	},
+	{
+		"abr": "psychicinsanitylance",
+		"price": 1080,
+		"category": "Artifacts",
+		"defname": "PsychicInsanityLance"
+	},
+	{
+		"abr": "royaltable(2x2)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "moderncomputer",
+		"price": 1100,
+		"category": "Recreation",
+		"defname": "Joy_ModernComputer"
+	},
+	{
+		"abr": "autoclave",
+		"price": -10,
+		"category": "Oil",
+		"defname": "Autoclave"
+	},
+	{
+		"abr": "tar-21",
+		"price": 1120,
+		"category": "Ranged weapons",
+		"defname": "Gun_tar21_cwm"
+	},
+	{
+		"abr": "grandsculpture",
+		"price": 1125,
+		"category": "Art",
+		"defname": "SculptureGrand"
+	},
+	{
+		"abr": "sks",
+		"price": 1125,
+		"category": "Ranged weapons",
+		"defname": "Gun_sks_cwm"
+	},
+	{
+		"abr": "vitalscentre",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "largeintakefan",
+		"price": -10,
+		"category": "Misc",
+		"defname": "LargeIntakeFan"
+	},
+	{
+		"abr": "akm",
+		"price": 1150,
+		"category": "Ranged weapons",
+		"defname": "Gun_akm_cwm"
+	},
+	{
+		"abr": "akms",
+		"price": 1150,
+		"category": "Ranged weapons",
+		"defname": "Gun_aks_cwm"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": -10,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "browningm1918bar",
+		"price": 1160,
+		"category": "Ranged weapons",
+		"defname": "Gun_m1918_cwm"
+	},
+	{
+		"abr": "c7a1",
+		"price": 1160,
+		"category": "Ranged weapons",
+		"defname": "Gun_c7a1_cwm"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 1160,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "famasg2",
+		"price": 1160,
+		"category": "Ranged weapons",
+		"defname": "Gun_famas_cwm"
+	},
+	{
+		"abr": "grizzlybear",
+		"price": 1160,
+		"category": "Animal",
+		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1160,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1160,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "m416",
+		"price": 1160,
+		"category": "Ranged weapons",
+		"defname": "Gun_m416_cwm"
+	},
+	{
+		"abr": "megasloth",
+		"price": 1160,
+		"category": "Animal",
+		"defname": "Megasloth"
+	},
+	{
+		"abr": "polarbear",
+		"price": 1160,
+		"category": "Animal",
+		"defname": "Bear_Polar"
+	},
+	{
+		"abr": "psychicanimalpulser",
+		"price": 1160,
+		"category": "Artifacts",
+		"defname": "PsychicAnimalPulser"
+	},
+	{
+		"abr": "rhinoceros",
+		"price": 1160,
+		"category": "Animal",
+		"defname": "Rhinoceros"
+	},
+	{
+		"abr": "sacs",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCWeaponsConsole"
+	},
+	{
+		"abr": "sarcophagustypea",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorSacrophagus"
+	},
+	{
+		"abr": "sarcophagustypev",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorSacrophagusC"
+	},
+	{
+		"abr": "sarcophagustypex",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorSacrophagusB"
+	},
+	{
+		"abr": "sg550",
+		"price": 1160,
+		"category": "Ranged weapons",
+		"defname": "Gun_sg550_cwm"
+	},
+	{
+		"abr": "simpleprostheticarm",
+		"price": 1160,
+		"category": "Simple prostheses",
+		"defname": "SimpleProstheticArm"
+	},
+	{
+		"abr": "simpleprostheticleg",
+		"price": 1160,
+		"category": "Simple prostheses",
+		"defname": "SimpleProstheticLeg"
+	},
+	{
+		"abr": "springfieldm1903",
+		"price": 1160,
+		"category": "Ranged weapons",
+		"defname": "Gun_m1903_cwm"
+	},
+	{
+		"abr": "synthamiderefiner",
+		"price": -10,
+		"category": "Oil",
+		"defname": "SynthamideRefiner"
+	},
+	{
+		"abr": "royaldresser",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "cryptosleepcasket",
+		"price": -10,
+		"category": "Misc",
+		"defname": "CryptosleepCasket"
+	},
+	{
+		"abr": "mk.16scar-l",
+		"price": 1180,
+		"category": "Ranged weapons",
+		"defname": "Gun_scarl_cwm"
+	},
+	{
+		"abr": "fnf2000",
+		"price": 1200,
+		"category": "Ranged weapons",
+		"defname": "Gun_f2000_cwm"
+	},
+	{
+		"abr": "stationaryspg-9kopye",
+		"price": 1200,
+		"category": "Security",
+		"defname": "Gun_spg9_def"
+	},
+	{
+		"abr": "weaponsresearchbench",
+		"price": -10,
+		"category": "Misc",
+		"defname": "WeaponsBench"
+	},
+	{
+		"abr": "m14",
+		"price": 1225,
+		"category": "Ranged weapons",
+		"defname": "Gun_m14_cwm"
+	},
+	{
+		"abr": "g36a1",
+		"price": 1230,
+		"category": "Ranged weapons",
+		"defname": "Gun_g36a1_cwm"
+	},
+	{
+		"abr": "alloyvest",
+		"price": 1250,
+		"category": "Apparel",
+		"defname": "Apparello_Gspot"
+	},
+	{
+		"abr": "bionicfoot",
+		"price": 1250,
+		"category": "Bionics",
+		"defname": "BionicFoot"
+	},
+	{
+		"abr": "galilace52",
+		"price": 1250,
+		"category": "Ranged weapons",
+		"defname": "Gun_galil52_cwm"
+	},
+	{
+		"abr": "medicalribreplacement",
+		"price": 1250,
+		"category": "Bionics",
+		"defname": "MedicalRib"
+	},
+	{
+		"abr": "neurotrainermechserum",
+		"price": 1250,
+		"category": "Items",
+		"defname": "MechSerumNeurotrainer"
+	},
+	{
+		"abr": "surrogatekidney",
+		"price": 1250,
+		"category": "Surrogate organs",
+		"defname": "SurrogateKidney"
+	},
+	{
+		"abr": "surrogateliver",
+		"price": 1250,
+		"category": "Surrogate organs",
+		"defname": "SurrogateLiver"
+	},
+	{
+		"abr": "surrogatelung",
+		"price": 1250,
+		"category": "Surrogate organs",
+		"defname": "SurrogateLung"
+	},
+	{
+		"abr": "surrogatestomach",
+		"price": 1250,
+		"category": "Surrogate organs",
+		"defname": "SurrogateStomach"
+	},
+	{
+		"abr": "xm8",
+		"price": 1250,
+		"category": "Ranged weapons",
+		"defname": "Gun_xm8_cwm"
+	},
+	{
+		"abr": "tacs",
+		"price": -10,
+		"category": "Misc",
+		"defname": "RadarDish"
+	},
+	{
+		"abr": "l85a2",
+		"price": 1270,
+		"category": "Ranged weapons",
+		"defname": "Gun_l85a2_cwm"
+	},
+	{
+		"abr": "steyraug",
+		"price": 1265,
+		"category": "Ranged weapons",
+		"defname": "Gun_steyraug_cwm"
+	},
+	{
+		"abr": "ak5c",
+		"price": 1200,
+		"category": "Ranged weapons",
+		"defname": "Gun_ak5_cwm"
+	},
+	{
+		"abr": "hyper-densityhydroponicsbay",
+		"price": -10,
+		"category": "Production",
+		"defname": "HDH_Hydroponics_Hyper"
+	},
+	{
+		"abr": "aek-971",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "Gun_aek971_cwm"
+	},
+	{
+		"abr": "radiator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "CoolingRadiator"
+	},
+	{
+		"abr": "rpk74",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "Gun_rpk74_cwm"
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "adrenalineribreplacement",
+		"price": 1500,
+		"category": "Bionics",
+		"defname": "AdrenalineRib"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 1300,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "aerocowl",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Kurtlite"
+	},
+	{
+		"abr": "an-94",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "Gun_an94_cwm"
+	},
+	{
+		"abr": "baguettriscabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeBG"
+	},
+	{
+		"abr": "bionicearimplant",
+		"price": 1300,
+		"category": "Bionics",
+		"defname": "BionicEar"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AndroidChicken"
+	},
+	{
+		"abr": "cookingbabacabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeCB"
+	},
+	{
+		"abr": "druggedribreplacement",
+		"price": 1330,
+		"category": "Bionics",
+		"defname": "DruggedRib"
+	},
+	{
+		"abr": "eldersconescabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeES"
+	},
+	{
+		"abr": "fnfal",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "Gun_fal_cwm"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1330,
+		"category": "Drugs",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "glutendogscabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeGD"
+	},
+	{
+		"abr": "halvalifecabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeHL"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1330,
+		"category": "Ranged weapons",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "homebrewarcadecabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeHomebrew"
+	},
+	{
+		"abr": "m27iar",
+		"price": 1330,
+		"category": "Ranged weapons",
+		"defname": "Gun_m27_cwm"
+	},
+	{
+		"abr": "m79",
+		"price": 1330,
+		"category": "Ranged weapons",
+		"defname": "Gun_m79_cwm"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1330,
+		"category": "Ranged weapons",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mintcraftcabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeMC"
+	},
+	{
+		"abr": "painkillerribreplacement",
+		"price": 1330,
+		"category": "Bionics",
+		"defname": "PainkillerRib"
+	},
+	{
+		"abr": "plantsvs.salamiscabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadePS"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1330,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "psychoknotscabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadePK"
+	},
+	{
+		"abr": "rumswirledcabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeRS"
+	},
+	{
+		"abr": "speltunkycabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeSP"
+	},
+	{
+		"abr": "thezimzcabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeTZ"
+	},
+	{
+		"abr": "thrumbohorn",
+		"price": 1330,
+		"category": "Items",
+		"defname": "ThrumboHorn"
+	},
+	{
+		"abr": "tornadogenerator",
+		"price": 1335,
+		"category": "Ranged weapons",
+		"defname": "TornadoGenerator"
+	},
+	{
+		"abr": "traumavendorcabinet",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeTV"
+	},
+	{
+		"abr": "surroundairventwide",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SurroundAirVentWide"
+	},
+	{
+		"abr": "g3a3",
+		"price": 1350,
+		"category": "Ranged weapons",
+		"defname": "Gun_g3a3_cwm"
+	},
+	{
+		"abr": "rimatomicsresearchbench",
+		"price": -10,
+		"category": "Misc",
+		"defname": "NuclearResearchBench"
+	},
+	{
+		"abr": "spacemarineleggings",
+		"price": -10,
+		"category": "Pants",
+		"defname": "Apparello_Spacemarinepants"
+	},
+	{
+		"abr": "medic'spoweredarmor",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_GShellII"
+	},
+	{
+		"abr": "steyrscout",
+		"price": 1420,
+		"category": "Ranged weapons",
+		"defname": "Gun_steyrscout_cwm"
+	},
+	{
+		"abr": "surrogateheart",
+		"price": 1420,
+		"category": "Surrogate organs",
+		"defname": "SurrogateHeart"
+	},
+	{
+		"abr": "royalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBed"
+	},
+	{
+		"abr": "royaltable(2x4)",
+		"price": 1475,
+		"category": "Furniture",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "mk.17scar-h",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_scarh_cwm"
+	},
+	{
+		"abr": "bionicanimalbrainstimulator",
+		"price": 1500,
+		"category": "Animal Body Part",
+		"defname": "AnimalBrainStimulator"
+	},
+	{
+		"abr": "sr-25",
+		"price": 1520,
+		"category": "Ranged weapons",
+		"defname": "Gun_sr25_cwm"
+	},
+	{
+		"abr": "flatscreentelevision",
+		"price": 1500,
+		"category": "Recreation",
+		"defname": "FlatscreenTelevision"
+	},
+	{
+		"abr": "m39emr",
+		"price": 1530,
+		"category": "Ranged weapons",
+		"defname": "Gun_m39_cwm"
+	},
+	{
+		"abr": "chemfuelpowerplant",
+		"price": -10,
+		"category": "Oil",
+		"defname": "FuelPowerplant"
+	},
+	{
+		"abr": "geothermalgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "GeothermalGenerator"
+	},
+	{
+		"abr": "fnminimi",
+		"price": 1580,
+		"category": "Ranged weapons",
+		"defname": "Gun_minimi_cwm"
+	},
+	{
+		"abr": "m249",
+		"price": 1580,
+		"category": "Ranged weapons",
+		"defname": "Gun_m249_cwm"
+	},
+	{
+		"abr": "neutroaminerefiner",
+		"price": -10,
+		"category": "Oil",
+		"defname": "NeutroamineRefiner"
+	},
+	{
+		"abr": "remington700",
+		"price": 1580,
+		"category": "Ranged weapons",
+		"defname": "Gun_r700_cwm"
+	},
+	{
+		"abr": "royalarmchair",
+		"price": 1580,
+		"category": "Furniture",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "winchestermodel70",
+		"price": 1580,
+		"category": "Ranged weapons",
+		"defname": "Gun_winchester70_cwm"
+	},
+	{
+		"abr": "royaltable(3x3)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "long-rangemineralscanner",
+		"price": -10,
+		"category": "Misc",
+		"defname": "LongRangeMineralScanner"
+	},
+	{
+		"abr": "magneticshield",
+		"price": -10,
+		"category": "Power",
+		"defname": "Building_RTMagneticShield"
+	},
+	{
+		"abr": "bionichand",
+		"price": 1660,
+		"category": "Bionics",
+		"defname": "BionicHand"
+	},
+	{
+		"abr": "bionicjawimplant",
+		"price": 1660,
+		"category": "Bionics",
+		"defname": "BionicJaw"
+	},
+	{
+		"abr": "brainstimulator",
+		"price": 1660,
+		"category": "Surrogate organs",
+		"defname": "BrainStimulator"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1660,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "compositeframeplating",
+		"price": 1660,
+		"category": "Android",
+		"defname": "CompositePlating"
+	},
+	{
+		"abr": "doomsdayrocketlauncher",
+		"price": 1660,
+		"category": "Ranged weapons",
+		"defname": "Gun_DoomsdayRocket"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1660,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "kidney",
+		"price": 1660,
+		"category": "Natural",
+		"defname": "Kidney"
+	},
+	{
+		"abr": "m40a3",
+		"price": 1660,
+		"category": "Ranged weapons",
+		"defname": "Gun_m40a3_cwm"
+	},
+	{
+		"abr": "mg42",
+		"price": 1660,
+		"category": "Ranged weapons",
+		"defname": "Gun_mg42_cwm"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1660,
+		"category": "Android",
+		"defname": "MiningArm"
+	},
+	{
+		"abr": "peakedcap",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Commissar"
+	},
+	{
+		"abr": "prototypehivearmor",
+		"price": 1660,
+		"category": "Rare equipment",
+		"defname": "Apparello_HiveArmor"
+	},
+	{
+		"abr": "prototypenerve-enhancer",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Proto"
+	},
+	{
+		"abr": "prototypescytherframe",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Scytherframe"
+	},
+	{
+		"abr": "prototypesteamhull",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Steamhull"
+	},
+	{
+		"abr": "schematiccabinet",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ApparelloSchematics"
+	},
+	{
+		"abr": "stomach",
+		"price": 1670,
+		"category": "Natural",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "svd",
+		"price": 1670,
+		"category": "Ranged weapons",
+		"defname": "Gun_svd_cwm"
+	},
+	{
+		"abr": "svu",
+		"price": 1665,
+		"category": "Ranged weapons",
+		"defname": "Gun_svu_cwm"
+	},
+	{
+		"abr": "techprofsubpersonacore",
+		"price": 1665,
+		"category": "Items",
+		"defname": "TechprofSubpersonaCore"
+	},
+	{
+		"abr": "triplerocketlauncher",
+		"price": 1660,
+		"category": "Ranged weapons",
+		"defname": "Gun_TripleRocket"
+	},
+	{
+		"abr": "wanderer'schestplate",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Syndicatellorare"
+	},
+	{
+		"abr": "chargerifle",
+		"price": 1680,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeRifle"
+	},
+	{
+		"abr": "crudecracker",
+		"price": -10,
+		"category": "Misc",
+		"defname": "CrudeCracker"
+	},
+	{
+		"abr": "ground-penetratingscanner",
+		"price": -10,
+		"category": "Misc",
+		"defname": "GroundPenetratingScanner"
+	},
+	{
+		"abr": "multi-analyzer",
+		"price": -10,
+		"category": "Misc",
+		"defname": "MultiAnalyzer"
+	},
+	{
+		"abr": "punisher",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCRailgun"
+	},
+	{
+		"abr": "shipcryptosleepcasket",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_CryptosleepCasket"
+	},
+	{
+		"abr": "ppc",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPC"
+	},
+	{
+		"abr": "shipstructuralbeam",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_Beam"
+	},
+	{
+		"abr": "reactortypea",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorCoreA"
+	},
+	{
+		"abr": "asval",
+		"price": 1800,
+		"category": "Ranged weapons",
+		"defname": "Gun_val_cwm"
+	},
+	{
+		"abr": "m240b",
+		"price": 1830,
+		"category": "Ranged weapons",
+		"defname": "Gun_m240b_cwm"
+	},
+	{
+		"abr": "m60e3",
+		"price": 1830,
+		"category": "Ranged weapons",
+		"defname": "Gun_m60e3_cwm"
+	},
+	{
+		"abr": "mg3",
+		"price": 1830,
+		"category": "Ranged weapons",
+		"defname": "Gun_mg3_cwm"
+	},
+	{
+		"abr": "storagepool",
+		"price": -10,
+		"category": "Misc",
+		"defname": "storagePool"
+	},
+	{
+		"abr": "minigun",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "Gun_Minigun"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 2000,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "antigrainwarhead",
+		"price": 2000,
+		"category": "Mortar shells",
+		"defname": "Shell_AntigrainWarhead"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 2000,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "fuelrods",
+		"price": -10,
+		"category": "Nuclear fuel",
+		"defname": "FuelRods"
+	},
+	{
+		"abr": "m.u.f.funit",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AndroidMuff"
+	},
+	{
+		"abr": "orbitalbombardmenttargeter",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterBombardment"
+	},
+	{
+		"abr": "orbitalpowerbeamtargeter",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterPowerBeam"
+	},
+	{
+		"abr": "pkm",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "Gun_pkm_cmw"
+	},
+	{
+		"abr": "sv98",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "Gun_sv98_cwm"
+	},
+	{
+		"abr": "vanometricpowercell",
+		"price": 2000,
+		"category": "Special",
+		"defname": "VanometricPowerCell"
+	},
+	{
+		"abr": "vsk-94",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "Gun_vsk94_cwm"
+	},
+	{
+		"abr": "war-engineer'scomm-link",
+		"price": -10,
+		"category": "Rare equipment",
+		"defname": "Apparello_Quotee"
+	},
+	{
+		"abr": "iedantigrainwarheadtrap",
+		"price": 2000,
+		"category": "Security",
+		"defname": "TrapIED_AntigrainWarhead"
+	},
+	{
+		"abr": "royalposterbed",
+		"price": 2000,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "thorturbine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Turbine"
+	},
+	{
+		"abr": "watercooling",
+		"price": -10,
+		"category": "Misc",
+		"defname": "CoolingWater"
+	},
+	{
+		"abr": "hyperweaverefiner",
+		"price": -10,
+		"category": "Oil",
+		"defname": "HyperweaveRefiner"
+	},
+	{
+		"abr": "autocannonturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Turret_Autocannon"
+	},
+	{
+		"abr": "arm",
+		"price": 2100,
+		"category": "Natural",
+		"defname": "Arm"
+	},
+	{
+		"abr": "healermechserum",
+		"price": 2160,
+		"category": "Items",
+		"defname": "MechSerumHealer"
+	},
+	{
+		"abr": "leg",
+		"price": 2160,
+		"category": "Natural",
+		"defname": "Leg"
+	},
+	{
+		"abr": "pkppecheneg",
+		"price": 2160,
+		"category": "Ranged weapons",
+		"defname": "Gun_pecheneg_cwm"
+	},
+	{
+		"abr": "psychicemanator",
+		"price": 2160,
+		"category": "Special",
+		"defname": "PsychicEmanator"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 2160,
+		"category": "Ranged weapons",
+		"defname": "Gun_vintorez_cwm"
+	},
+	{
+		"abr": "researchreactor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ResearchReactor"
+	},
+	{
+		"abr": "obelisk",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCObelisk"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": -10,
+		"category": "Items",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "chargelance",
+		"price": 2260,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeLance"
+	},
+	{
+		"abr": "frf2",
+		"price": 2330,
+		"category": "Ranged weapons",
+		"defname": "Gun_frf2_cmw"
+	},
+	{
+		"abr": "t1android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "largeairclimatecontrol",
+		"price": -10,
+		"category": "Misc",
+		"defname": "LargeAirThermal"
+	},
+	{
+		"abr": "uraniumslugturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Turret_Sniper"
+	},
+	{
+		"abr": "hkpsg1",
+		"price": 2400,
+		"category": "Ranged weapons",
+		"defname": "Gun_psg1_cmw"
+	},
+	{
+		"abr": "m32milkor",
+		"price": 2420,
+		"category": "Ranged weapons",
+		"defname": "Gun_m32_cwm"
+	},
+	{
+		"abr": "megascreentelevision",
+		"price": 2475,
+		"category": "Recreation",
+		"defname": "MegascreenTelevision"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 2500,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 2500,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "bioniceye",
+		"price": 2500,
+		"category": "Bionics",
+		"defname": "BionicEye"
+	},
+	{
+		"abr": "eyeball",
+		"price": 2500,
+		"category": "Natural",
+		"defname": "Eye"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "infinitechemreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "InfiniteChemreactor"
+	},
+	{
+		"abr": "l96a1",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Gun_l96a1_cmw"
+	},
+	{
+		"abr": "lightpowerarmor",
+		"price": 2500,
+		"category": "Apparel",
+		"defname": "Apparello_Gshell"
+	},
+	{
+		"abr": "lung",
+		"price": 2500,
+		"category": "Natural",
+		"defname": "Lung"
+	},
+	{
+		"abr": "scytherblade",
+		"price": 2500,
+		"category": "Bionics",
+		"defname": "ScytherBlade"
+	},
+	{
+		"abr": "plutoniumprocessor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PlutoniumProcessor"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": 2660,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2660,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": -10,
+		"category": "Animal",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2660,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2660,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": -10,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 2660,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "rpg-7",
+		"price": 2660,
+		"category": "Ranged weapons",
+		"defname": "Gun_rpg7_cwm"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2660,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2660,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2660,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "marauder",
+		"price": -10,
+		"category": "Misc",
+		"defname": "PPCMarauder"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2800,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 2800,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 2800,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "carlgustafm2",
+		"price": 2800,
+		"category": "Ranged weapons",
+		"defname": "Gun_carl_gustaf_m2_cwm"
+	},
+	{
+		"abr": "enviro-headgear",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Meffectwo"
+	},
+	{
+		"abr": "resurrectormechserum",
+		"price": 2830,
+		"category": "Items",
+		"defname": "MechSerumResurrector"
+	},
+	{
+		"abr": "bionicarm",
+		"price": 2900,
+		"category": "Bionics",
+		"defname": "BionicArm"
+	},
+	{
+		"abr": "bionicleg",
+		"price": 2900,
+		"category": "Bionics",
+		"defname": "BionicLeg"
+	},
+	{
+		"abr": "bionicspine",
+		"price": 2900,
+		"category": "Bionics",
+		"defname": "BionicSpine"
+	},
+	{
+		"abr": "human",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Human"
+	},
+	{
+		"abr": "synthetickidney",
+		"price": 2920,
+		"category": "Synthetic organs",
+		"defname": "SyntheticKidney"
+	},
+	{
+		"abr": "syntheticliver",
+		"price": 2920,
+		"category": "Synthetic organs",
+		"defname": "SyntheticLiver"
+	},
+	{
+		"abr": "syntheticlung",
+		"price": 2920,
+		"category": "Synthetic organs",
+		"defname": "SyntheticLung"
+	},
+	{
+		"abr": "syntheticstomach",
+		"price": 2920,
+		"category": "Synthetic organs",
+		"defname": "SyntheticStomach"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 3000,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "monolithserum",
+		"price": 3000,
+		"category": "Drugs",
+		"defname": "MSerum"
+	},
+	{
+		"abr": "shieldedcoat",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "Apparello_Syndicatetello"
+	},
+	{
+		"abr": "sensorcluster",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_SensorCluster"
+	},
+	{
+		"abr": "aerocowlmkii",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Kurt"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 3000,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3300,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 3300,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "fancyenviro-headgear",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Meffect"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 3330,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "heart",
+		"price": 3330,
+		"category": "Natural",
+		"defname": "Heart"
+	},
+	{
+		"abr": "liver",
+		"price": 3330,
+		"category": "Natural",
+		"defname": "Liver"
+	},
+	{
+		"abr": "syntheticheart",
+		"price": 3330,
+		"category": "Synthetic organs",
+		"defname": "SyntheticHeart"
+	},
+	{
+		"abr": "marinearmor",
+		"price": 3400,
+		"category": "Apparel",
+		"defname": "Apparel_PowerArmor"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 3600,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "largechemfuelpowerplant",
+		"price": -10,
+		"category": "Misc",
+		"defname": "LargeFuelPowerplant"
+	},
+	{
+		"abr": "electronicbrainpal",
+		"price": 3800,
+		"category": "Artificial",
+		"defname": "ElectronicTacticalImplant"
+	},
+	{
+		"abr": "tissueprinter",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "reactortypex",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorCoreB"
+	},
+	{
+		"abr": "liberator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "MissileSilo"
+	},
+	{
+		"abr": "coolingtower",
+		"price": -10,
+		"category": "Misc",
+		"defname": "CoolingTower"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "bionicsworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableBionics"
+	},
+	{
+		"abr": "fuelrodsmox",
+		"price": -10,
+		"category": "Nuclear fuel",
+		"defname": "FuelRodsMOX"
+	},
+	{
+		"abr": "t2android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "r.t.g",
+		"price": -10,
+		"category": "Nuclear",
+		"defname": "RimatomicsRTG"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": -10,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicEar"
+	},
+	{
+		"abr": "advancedbionicfoot",
+		"price": 5000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicFoot"
+	},
+	{
+		"abr": "archotecharm",
+		"price": 4600,
+		"category": "Artificial",
+		"defname": "ArchotechArm"
+	},
+	{
+		"abr": "archotecheye",
+		"price": 4600,
+		"category": "Artificial",
+		"defname": "ArchotechEye"
+	},
+	{
+		"abr": "archotechleg",
+		"price": 4600,
+		"category": "Artificial",
+		"defname": "ArchotechLeg"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 5000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicEye"
+	},
+	{
+		"abr": "advancedbionichand",
+		"price": 5000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicHand"
+	},
+	{
+		"abr": "advancedbionicjaw",
+		"price": 5000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicJaw"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 5300,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "railgun",
+		"price": 5330,
+		"category": "Ranged weapons",
+		"defname": "Gun_RailgunMKI"
+	},
+	{
+		"abr": "tac-teampeakedcap",
+		"price": -10,
+		"category": "Apparello headgear",
+		"defname": "Apparello_Cybissar"
+	},
+	{
+		"abr": "bionicbrainpal",
+		"price": 5660,
+		"category": "Artificial",
+		"defname": "BionicTacticalImplant"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5800,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 5833,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "musclestimulator",
+		"price": 5830,
+		"category": "Synthetic organs",
+		"defname": "MuscleStimulator"
+	},
+	{
+		"abr": "tacticalcorneaimplant",
+		"price": 5830,
+		"category": "Synthetic organs",
+		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "shipengine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_Engine"
+	},
+	{
+		"abr": "zeusturbine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "BigTurbine"
+	},
+	{
+		"abr": "powerclaw",
+		"price": 6250,
+		"category": "Bionics",
+		"defname": "PowerClaw"
+	},
+	{
+		"abr": "aipersonacore",
+		"price": 6600,
+		"category": "Items",
+		"defname": "AIPersonaCore"
+	},
+	{
+		"abr": "archotecharchotechbio-reactor",
+		"price": 6000,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 6600,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "thrumbo",
+		"price": 6660,
+		"category": "Animal",
+		"defname": "Thrumbo"
+	},
+	{
+		"abr": "aichip",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "AIChip"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 7500,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 7500,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 7500,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "auxiliaryai(agricultural)",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "FarmerCore"
+	},
+	{
+		"abr": "auxiliaryai(constructing)",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "ConstructorCore"
+	},
+	{
+		"abr": "auxiliaryai(diplomatic)",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "DiplomatCore"
+	},
+	{
+		"abr": "auxiliaryai(medical)",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "DoctorCore"
+	},
+	{
+		"abr": "auxiliaryai(mining)",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "MinerCore"
+	},
+	{
+		"abr": "exoskeletonsuit",
+		"price": 7500,
+		"category": "Advanced bionics",
+		"defname": "ExoskeletonSuit"
+	},
+	{
+		"abr": "joywire",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "Joywire"
+	},
+	{
+		"abr": "painstopper",
+		"price": 7500,
+		"category": "Synthetic organs",
+		"defname": "Painstopper"
+	},
+	{
+		"abr": "reactortypev",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ReactorCoreC"
+	},
+	{
+		"abr": "aimanager",
+		"price": -10,
+		"category": "Production",
+		"defname": "FM_AIManager"
+	},
+	{
+		"abr": "t3android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 8000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicArm"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 8000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicLeg"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 8000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedBionicSpine"
+	},
+	{
+		"abr": "mechaniteforge",
+		"price": -10,
+		"category": "Production",
+		"defname": "MFMechaniteForge"
+	},
+	{
+		"abr": "shipreactor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_Reactor"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 9160,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "shipcomputercore",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_ComputerCore"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 10000,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "nerve-enhancer",
+		"price": 10000,
+		"category": "Rare equipment",
+		"defname": "Apparello_ProtoFin"
+	},
+	{
+		"abr": "t4android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "bastion",
+		"price": 11000,
+		"category": "Drugs",
+		"defname": "MFBastion"
+	},
+	{
+		"abr": "powerarm",
+		"price": 12500,
+		"category": "Bionics",
+		"defname": "PowerArm"
+	},
+	{
+		"abr": "seraphium",
+		"price": 13330,
+		"category": "Drugs",
+		"defname": "MFAngelium"
+	},
+	{
+		"abr": "t5android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AndroidDog"
+	},
+	{
+		"abr": "advancedpowerarm",
+		"price": 16000,
+		"category": "Advanced bionics",
+		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "addictionpurifier",
+		"price": 18000,
+		"category": "Drugs",
+		"defname": "MFAddictionPurifier"
+	},
+	{
+		"abr": "trollblood",
+		"price": 18330,
+		"category": "Drugs",
+		"defname": "MFHealingFactor"
+	},
+	{
+		"abr": "nuclearwarhead",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "FissionWarhead"
+	},
+	{
+		"abr": "m7mechanisedinfantry",
+		"price": -10,
+		"category": "Animal",
+		"defname": "M7Mech"
+	},
+	{
+		"abr": "concussiveturret",
+		"price": 2200,
+		"category": "Security",
+		"defname": "Turret_ConcussiveTurret"
+	},
+	{
+		"abr": "empturret",
+		"price": 3260,
+		"category": "Security",
+		"defname": "Turret_STEMPTurret"
+	},
+	{
+		"abr": "energyturret",
+		"price": 2100,
+		"category": "Security",
+		"defname": "Turret_EnergyTurret"
+	},
+	{
+		"abr": "heavyturret",
+		"price": 3100,
+		"category": "Security",
+		"defname": "Turret_HeavyTurret"
+	},
+	{
+		"abr": "machine-gunemplacement",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Turret_STMGEmp"
+	},
+	{
+		"abr": "rifleemplacement",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Turret_STRifleEmp"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 925,
+		"category": "Security",
+		"defname": "Turret_ShredderTurret"
+	},
+	{
+		"abr": "sniperturret",
+		"price": 1075,
+		"category": "Security",
+		"defname": "Turret_SniperTurret"
+	},
+	{
+		"abr": "standardturret",
+		"price": 900,
+		"category": "Security",
+		"defname": "Turret_StandardTurret"
+	},
+	{
+		"abr": "stunningturret",
+		"price": 450,
+		"category": "Security",
+		"defname": "Turret_StunningTurret"
+	},
+	{
+		"abr": "tazingturret",
+		"price": 585,
+		"category": "Security",
+		"defname": "Turret_TazingTurret"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	],
+	"total": 1346
+}
